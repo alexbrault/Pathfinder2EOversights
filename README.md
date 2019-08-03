@@ -1,5 +1,10 @@
-# Pathfinder2EMistakes
+# Pathfinder 2E Mistakes
 A central listing of all the typos/mistakes/etc found in the initial books launched for Pathfinder 2E.
+
+## How to Contribute
+If you're familiar with markdown and Git, by all means make a pull request with your changes. Please stick to the formatting currently present (or obviously your pull request could be a suggested change to the overall formatting), and after verifying the typo/mistake you point out in my own copy of these books, I'll accept the pull request.
+
+If you're not familiar with one or both, you can create an issue in the `Issues` tab above, and we'll get that added to the list when I can. Or someone else can make a pull request to do it of course.
 
 ## Core Rulebook
 
