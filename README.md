@@ -79,6 +79,7 @@ If you know of an error that isn't on this list, there are a few ways you can te
 * `p.455` If I look up "Reach" in the index, it won't take me here. It only refers to the reach weapon trait.
 * `p.456` Many of the red dots for the lines are off-center.
 * `p.458` in Affliction Example: "Succeeding at your second save would reduce the stage **t** by 1 to stage 1...". I'm not sure if that was meant to be something or if should just be deleted, lol.
+* `p.476` in Flanking: To flank a foe, you and your ally must be on **opposites sides** or corners of the creature. Change to **opposite sides**.
 * `p.477` in Cover: "The line between the centers of their spaces doesn't pass through any block terrain, but does **passes** through Valero's space." Change to "**pass**".
 * `p.479` in Exploration Activities: "...If you **to** do nothing more than make steady progress toward your goal,...". Word should be deleted.
 * `p.489` in Planning a Session Part 2: "Plan a time for everybody will arrive,...". Missed a word? Change **for** to **when**?
