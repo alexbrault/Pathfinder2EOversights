@@ -1,10 +1,15 @@
 # Pathfinder 2E Mistakes
 A central listing of all the typos/mistakes/etc found in the initial books launched for Pathfinder 2E.
 
-## How to Contribute
-If you're familiar with markdown and Git, by all means make a pull request with your changes. Please stick to the formatting currently present (or obviously your pull request could be a suggested change to the overall formatting), and after verifying the typo/mistake you point out in my own copy of these books, I'll accept the pull request.
+I try not to add too many things related more to just the rules being ambiguous, or otherwise FAQ candidates, in order to try and control the scope of this list, though you may notice I give mention to a few possible FAQ candidates people have raised in the last section of this.
 
-If you're not familiar with one or both, you can create an issue in the `Issues` tab above, and we'll get that added to the list when I can. Or someone else can make a pull request to do it of course.
+## How to Contribute
+
+If you know of an error that isn't on this list, there are a few ways you can tell me:
+
+1. If you know Git and some basic markdown, you can make a pull request against this repo and I'll verify it with my own book and approve the PR.
+2. You can submit an issue against this repo up in the `Issues` tab and I will add it to the list, closing the issue when I have added it to the list.
+3. Make a post in [this thread on the Paizo forums](https://paizo.com/threads/rzs42nmp&page=3?TyposMistakesEtc-in-2E-Books-Collection) which I also check periodically for newly found errors.
 
 ## Core Rulebook
 
@@ -17,6 +22,7 @@ If you're not familiar with one or both, you can create an issue in the `Issues`
 ---
 * `p.62` in "Field Medic" description: "You gain the **Battle Medic** skill feat." The feat as listed on `p.258` is named **Battle Medicine**.
 * `p.73` in Chirurgeon research field: "lesser antidote, less antiplague, or **lesser** elixir of life". This should be **minor** elixir of life, right? Found by [/u/HereWeGoTeddy on Reddit](https://www.reddit.com/r/Pathfinder2e/comments/ciqr0d/chirurgeon_class_feature_gives_lesser_elixir_of/).
+* `p.75` in Perpetual Infusions: "Mutagenist: Choose two of the following formulas: lesser bestial mutagen, **lesser bullheaded mutagen**...". There is no bullheaded mutagen in the rest of the book.
 * `p.86` in Table 3-3 Animal Instincts: The deer has the trait **Charge**. Looks like this isn't a valid trait.
 * `p.91` in Thrash: "plus your **ferocious specialization** damage". What is that? Is that meant to be **weapon specialization**? (Credit to [/u/boomstik101](https://www.reddit.com/r/Pathfinder2e/comments/cfomkf/barbarian_ferocious_specilization_damage/) on Reddit.)
 * `p.93` in Dragon Transformation: "your breath weapon DC increases to 30". Isn't this leftover from the playtest? Shouldn't this instead be something like being able to use the barbarian's Class DC?
@@ -25,8 +31,10 @@ If you're not familiar with one or both, you can create an issue in the `Issues`
 * `p.139` in the Primal Wellspring feat: "Prerequisites: **Wild Focus**". Should be "Prerequisites: **Primal Focus**".
 * `p.139` in Monstrosity Shape: "add the phoenix form listed in **aerial form** to your wild shape list". Phoenix form is actually listed in **monstrosity form**.
 ---
+* `p.156` in Mystic Strikes: "However, you still need an item such as **handswarps of mighty fists**...". Should be "**handwraps of mighty blows**".
 * `p.157-158`: Does it say anywhere that monk spells start on page 401? Worth considering adding?
 * `p.162` Ki Monk question: Is this sidebar saying that Wisdom is supposed to be the key ability for a monk's ki/spell attacks?
+* `p.170` in Ranger Feats sidebar: "To the Ends of the Earth" and "Triple Threat" have the same background color instead of alternating.
 * `p.176` in Stealthy Companion: Doesn't list Animal Companion as a prerequisite.
 * `p.184` in Minor Magic: Sweet, the Rogue gets spells. What ability do I use for the spell DC? There's also no trained proficiency in Spell DC or Spell Attack Roll.
 * `p.194` Are Sorcerers supposed to get **Resolve** at level 17? It's on the character specific sheet, and they're the only spellcaster to not get it, creating a strange gap between level 15 and 19. (Credit to [Elfteiroh](https://paizo.com/people/Elfteiroh).)
@@ -53,6 +61,7 @@ If you're not familiar with one or both, you can create an issue in the `Issues`
 * `p.295` in Table 6-18 Barding: If you can get animal armor with Heavy Barding that grants an AC bonus of +3, why does `p.214` say that animal companions are limited to gaining a +2 AC item bonus?
 * `p.298` in Disbelieving Illusions: Last sentence has an extra period.
 ---
+* `p.307` in "Charm", `p.308` in "Paralyze", and `p.309` in "Dominate". All three short-text versions of these spells reference targeting a "humanoid", but the full spell descriptions don't specify that the target needs to be humanoid.
 * `p.312` Table 3-11: Based on the text for primal spellcasting on page 130, should the Druid have **5** cantrips at all levels instead of the currently listed **4**?
 * `p.334` in Eclipse Burst: **Critical Failure** isn't bolded.
 * `p.343` in Harm spell: "You disperse **positive** energy in a 30-foot emanation". Should be **negative** energy.
@@ -69,6 +78,7 @@ If you're not familiar with one or both, you can create an issue in the `Issues`
 * `p.454` "Stupefied: **Your** can't access your full mental faculties,...". **Your** should be **You**.
 * `p.455` If I look up "Reach" in the index, it won't take me here. It only refers to the reach weapon trait.
 * `p.456` Many of the red dots for the lines are off-center.
+* `p.458` in Affliction Example: "Succeeding at your second save would reduce the stage **t** by 1 to stage 1...". I'm not sure if that was meant to be something or if should just be deleted, lol.
 * `p.477` in Cover: "The line between the centers of their spaces doesn't pass through any block terrain, but does **passes** through Valero's space." Change to "**pass**".
 * `p.479` in Exploration Activities: "...If you **to** do nothing more than make steady progress toward your goal,...". Word should be deleted.
 * `p.489` in Planning a Session Part 2: "Plan a time for everybody will arrive,...". Missed a word? Change **for** to **when**?
@@ -83,10 +93,15 @@ If you're not familiar with one or both, you can create an issue in the `Issues`
 ---
 * `p.680` in Hidden: "when targeting you with an attack, spell, or other effect or it **fails affect** you". Replace with "**fails to affect**".
 
+### Core Rulebook PDF
+
+* `p.376`: The bookmark for the Sunburst spell is misspelled as **Sunbirst**.
+
 ## Bestiary
 
 * `p.157` The Faerie Dragon has a +16 Perception. This is high to a statistically significant extent for a level 2 creature. See my note at the bottom of this post.
 * `p.174` in Storm Giant: **Sense Motive** is listed as one of its skills.
+* `p.195`: Grikkitog says "Resistances 10 (except adamantine)". What kind of resistance? Physical? All?
 * `p.208` in sidebar: "the crafting of a soulbound doll (page **306**)". Should be **304**.
 * `p.351` "Skum" on page 12 are not included in the index by level.
 
@@ -95,7 +110,11 @@ If you're not familiar with one or both, you can create an issue in the `Issues`
 
 * `p.26` "they find an owlbear claw (Pathfinder Core Rulebook **570**)". The owlbear claw is listed on page **569**.
 
-## Other Notes
+## Character Sheet Pack
+
+* Many of the fighter's odd-level class features were misprinted in their even-level class feat boxes, making those boxes unusable.
+
+## Other Notes/FAQ Candidates
 
 * Ok. So. The Faerie Dragon. [Deadmanwalking](https://paizo.com/threads/rzs42nmp&page=2?TyposMistakesEtc-in-2E-Books-Collection#81) pointed out that +16 seemed like a high perception for a level 2 creature. Now, I'm a data nerd. I wasn't going to include that without statistically proving that. So.....I went through the bestiary and tracked what all of their perception bonuses are. And [sure enough, here we have it](https://i.imgur.com/7YJQIQA.png). That data point of 16 is anomylously high compared to all the other perception values for level 2 creatures. Is this on purpose or ok? I'll leave that up to Paizo folks. Either way, wow I commit to these rabbit holes, lol.
 
@@ -106,3 +125,7 @@ If you're not familiar with one or both, you can create an issue in the `Issues`
 * Making note of confusion around Improved Evasion on `p.170` and p.182, [Mark Seifter clarified](https://paizo.com/threads/rzs42ndr&page=2?KnowItAll-The-Fluffiest-Feat-Ever#52). Similar confusion on p.85, 99, and 157.
 
 * [RicoTheBold](https://paizo.com/threads/rzs42nmp&page=2?TyposMistakesEtc-in-2E-Books-Collection#70) posted some interesting questions that are more FAQ candidates.
+
+* [Dalvyn](https://paizo.com/threads/rzs42nmp&page=3?TyposMistakesEtc-in-2E-Books-Collection#115) has another FAQ/Errata candidate.
+
+* Another clarification request from [Nightwhisper](https://paizo.com/threads/rzs42nmp&page=3?TyposMistakesEtc-in-2E-Books-Collection#126).
