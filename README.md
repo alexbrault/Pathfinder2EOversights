@@ -22,6 +22,7 @@ If you know of an error that isn't on this list, there are a few ways you can te
 ---
 * `p.62` in "Field Medic" description: "You gain the **Battle Medic** skill feat." The feat as listed on `p.258` is named **Battle Medicine**.
 * `p.73` in Chirurgeon research field: "lesser antidote, less antiplague, or **lesser** elixir of life". This should be **minor** elixir of life, right? Found by [/u/HereWeGoTeddy on Reddit](https://www.reddit.com/r/Pathfinder2e/comments/ciqr0d/chirurgeon_class_feature_gives_lesser_elixir_of/).
+* `p.73` in Mutagenist research field: "You can gain the benefit of any mutagen, **even if it wasn't specifically brewed for you**". I can't find any rules stating that normally a mutagen has to be brewed for you. If anything, this would make the treasure tables on `p.536` make less sense, given that the players could likely not actually use any of the mutagens listed if they randomly found them.
 * `p.75` in Perpetual Infusions: "Mutagenist: Choose two of the following formulas: lesser bestial mutagen, **lesser bullheaded mutagen**...". There is no bullheaded mutagen in the rest of the book.
 * `p.86` in Table 3-3 Animal Instincts: The deer has the trait **Charge**. Looks like this isn't a valid trait.
 * `p.91` in Thrash: "plus your **ferocious specialization** damage". What is that? Is that meant to be **weapon specialization**? (Credit to [/u/boomstik101](https://www.reddit.com/r/Pathfinder2e/comments/cfomkf/barbarian_ferocious_specilization_damage/) on Reddit.)
@@ -56,6 +57,7 @@ If you know of an error that isn't on this list, there are a few ways you can te
 * `p.275` in Chain shirt entry: "Flexible, **Noisy**". Lowercasing to **noisy** makes it consistent with both the rest of this table column, and the "Weapon Traits" column in the weapons tables.
 * `p.278` in Critical Hits: "When you make an attack and roll a natural 20... or if the result of your attack exceeds the target's AC by 10, you achieve a critical success." A nat 20 does not guarantee a critical success.
 * `p.278` in Improvised Weapons: What proficiency bonus do players use for improvised weapons?
+* `p.284` in Bastard Sword: "...it can be held in one hand or used with two hands to provide extra **piercing** or slashing power". Bastard swords don't deal piercing damage.
 * `p.288` Mark Seifter mentioned in the Know Direction podcast that the item "Adventurer's pack" should have a Bulk of **1** instead of **2**.
 * `p.293` vs `p.563` Is a Minor Healing Potion 3 or 4 gp?
 * `p.295` in Table 6-18 Barding: If you can get animal armor with Heavy Barding that grants an AC bonus of +3, why does `p.214` say that animal companions are limited to gaining a +2 AC item bonus?
@@ -85,6 +87,7 @@ If you know of an error that isn't on this list, there are a few ways you can te
 * `p.491` in Adjudicating the Rules, second bullet: "(page **XXX**)" More placeholder text.
 * `p.491` "If you don't find one, make up an undefined action (page **XXX**)." Looks like leftover placeholder text.
 ---
+* `p.544` in Splash Trait: "For example, if you threw a less acid flask and hit your target, that creature would take 1d6 persistent acid damage and 1 acid splash damage". It would also take an additional point of acid damage, as listed on the very last line of this page.
 * `p.552` in Giant Wasp Venom: "Stage 3 4d6 poison and clumsy". Missing the word "**damage**" after "poison".
 * `p.556` in Armor Alternatives: Per a quote from Mark Seifter (thanks, PF Discord!), looks like the intention was that Bracers of Armor are supposed to have their listed dex cap of +5 from page 607.
 * `p.572` in Bag of Holding: How is it held in two hands if you're able to put and remove items from it like a mundane sack?
@@ -129,3 +132,9 @@ If you know of an error that isn't on this list, there are a few ways you can te
 * [Dalvyn](https://paizo.com/threads/rzs42nmp&page=3?TyposMistakesEtc-in-2E-Books-Collection#115) has another FAQ/Errata candidate.
 
 * Another clarification request from [Nightwhisper](https://paizo.com/threads/rzs42nmp&page=3?TyposMistakesEtc-in-2E-Books-Collection#126).
+
+* Noted both [here](https://paizo.com/threads/rzs42nmp&page=3?TyposMistakesEtc-in-2E-Books-Collection#119), and [here](https://github.com/VestOfHolding/Pathfinder2EMistakes/issues/2), it's not always clear to everyone that referring to, say, an Intimidation skill feat, is talking about the group of skill feats associated with the Intimidation skill.
+
+* As brought up [here](https://paizo.com/threads/rzs42nmp&page=3?TyposMistakesEtc-in-2E-Books-Collection#136), there's something odd about the Monk Dedication feat.
+
+* [Andrew Mullen](https://paizo.com/threads/rzs42nmp&page=3?TyposMistakesEtc-in-2E-Books-Collection#140) noticed that the 8th level barbarian feat, Animal Rage, doesn't seem like it does much.
