@@ -104,6 +104,7 @@ If you know of an error that isn't on this list, there are a few ways you can te
 * `p.174` in Storm Giant: **Sense Motive** is listed as one of its skills.
 * `p.195`: Grikkitog says "Resistances 10 (except adamantine)". What kind of resistance? Physical? All?
 * `p.208` in sidebar: "the crafting of a soulbound doll (page **306**)". Should be **304**.
+* `p.340` in Zombie Abilities, Rotting Aura: "Any living creature that starts its turn within 10 feet of the zombie and is not at full Hit Points takes 1d6 damage as its wounds fester". No damage type is specified, should probably be **negative**.
 * `p.351` "Skum" on page 12 are not included in the index by level.
 
 
