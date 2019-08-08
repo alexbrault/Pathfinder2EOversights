@@ -66,8 +66,8 @@ If you know of an error that isn't on this list, there are a few ways you can te
 * `p.298` in Disbelieving Illusions: Last sentence has an extra period.
 ---
 * `p.307` in "Charm", `p.308` in "Paralyze", and `p.309` in "Dominate". All three short-text versions of these spells reference targeting a "humanoid", but the full spell descriptions don't specify that the target needs to be humanoid.
-* `p.312` Table 3-11: Based on the text for primal spellcasting on page 130, should the Druid have **5** cantrips at all levels instead of the currently listed **4**?
-* `p.327` in Crusade: "You issue a divine mandage to the targets. **you** pronounce...". Should be capitalized? Or is thiere even a word missing?
+* `p.312` Table 3-11: Based on the text for primal spellcasting on page 130, should the Druid have **5** cantrips at all levels instead of the currently listed **4**? ([Credit to Runnetib](https://paizo.com/threads/rzs42nmp&page=4?TyposMistakesEtc-in-2E-Books-Collection#164), there is dev confirmation that this should be 5).
+* `p.327` in Crusade: "You issue a divine mandage to the targets. **you** pronounce...". Should be capitalized? Or is there even a word missing?
 * `p.334` in Eclipse Burst: **Critical Failure** isn't bolded.
 * `p.343` in Harm spell: "You disperse **positive** energy in a 30-foot emanation". Should be **negative** energy.
 * `p.349` in Magic Aura spell: "A caster using detect magic or **study aura**...". This cantrip doesn't exist.
@@ -125,7 +125,7 @@ If you know of an error that isn't on this list, there are a few ways you can te
 
 ## The Fall of Plaguestone
 
-* `p.52` "Delma rung the Feedmill" should be "runs".
+* `p.52` "Delma **rung** the Feedmill" should be "**runs**".
 
 ## Character Sheet Pack
 
