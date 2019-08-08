@@ -115,6 +115,10 @@ If you know of an error that isn't on this list, there are a few ways you can te
 
 * `p.26` "they find an owlbear claw (Pathfinder Core Rulebook **570**)". The owlbear claw is listed on page **569**.
 
+## The Fall of Plaguestone
+
+* `p.52` "Delma rung the Feedmill" should be "runs".
+
 ## Character Sheet Pack
 
 * Many of the fighter's odd-level class features were misprinted in their even-level class feat boxes, making those boxes unusable.
