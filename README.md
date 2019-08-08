@@ -22,11 +22,13 @@ If you know of an error that isn't on this list, there are a few ways you can te
 ---
 * `p.62` in "Field Medic" description: "You gain the **Battle Medic** skill feat." The feat as listed on `p.258` is named **Battle Medicine**.
 * `p.73` in Chirurgeon research field: "lesser antidote, less antiplague, or **lesser** elixir of life". This should be **minor** elixir of life, right? Found by [/u/HereWeGoTeddy on Reddit](https://www.reddit.com/r/Pathfinder2e/comments/ciqr0d/chirurgeon_class_feature_gives_lesser_elixir_of/).
-* `p.73` in Mutagenist research field: "You can gain the benefit of any mutagen, **even if it wasn't specifically brewed for you**". I can't find any rules stating that normally a mutagen has to be brewed for you. If anything, this would make the treasure tables on `p.536` make less sense, given that the players could likely not actually use any of the mutagens listed if they randomly found them.
 * `p.75` in Perpetual Infusions: "Mutagenist: Choose two of the following formulas: lesser bestial mutagen, **lesser bullheaded mutagen**...". There is no bullheaded mutagen in the rest of the book.
+
 * `p.86` in Table 3-3 Animal Instincts: The deer has the trait **Charge**. Looks like this isn't a valid trait.
 * `p.91` in Thrash: "plus your **ferocious specialization** damage". What is that? Is that meant to be **weapon specialization**? (Credit to [/u/boomstik101](https://www.reddit.com/r/Pathfinder2e/comments/cfomkf/barbarian_ferocious_specilization_damage/) on Reddit.)
 * `p.93` in Dragon Transformation: "your breath weapon DC increases to 30". Isn't this leftover from the playtest? Shouldn't this instead be something like being able to use the barbarian's Class DC?
+* `p.96` in Bard Advancement: "10: Ability **boots**, bard feat, skill feat". Should be **boosts**.
+* `p.97` in Adaptive Adept: "or prepared spells just like the cantrip from Adapted **Spell**". Should be Adapted **Cantrip**.
 ---
 * `p.103` in Effortless Concentration: This version for the bard has a requirement of having not acted on your turn yet. Is it on purpose that this is different from the version that Druids (p.138), Sorcerers (p.201), and Wizards (p.213) have, which only have a trigger of their turn beginning? 
 * `p.139` in the Primal Wellspring feat: "Prerequisites: **Wild Focus**". Should be "Prerequisites: **Primal Focus**".
@@ -65,8 +67,11 @@ If you know of an error that isn't on this list, there are a few ways you can te
 ---
 * `p.307` in "Charm", `p.308` in "Paralyze", and `p.309` in "Dominate". All three short-text versions of these spells reference targeting a "humanoid", but the full spell descriptions don't specify that the target needs to be humanoid.
 * `p.312` Table 3-11: Based on the text for primal spellcasting on page 130, should the Druid have **5** cantrips at all levels instead of the currently listed **4**?
+* `p.327` in Crusade: "You issue a divine mandage to the targets. **you** pronounce...". Should be capitalized? Or is thiere even a word missing?
 * `p.334` in Eclipse Burst: **Critical Failure** isn't bolded.
 * `p.343` in Harm spell: "You disperse **positive** energy in a 30-foot emanation". Should be **negative** energy.
+* `p.349` in Magic Aura spell: "A caster using detect magic or **study aura**...". This cantrip doesn't exist.
+* `p.356` in Pest Form: "You transform into **a** the battle form of a Tiny animal". The extra "a" should be deleted.
 * `p.368` in Shadow Siphon: "instead take only half as much damage**.** but...". The period should be a comma.
 * `p.370` in Sound Burst: Critical Failure says stunned 1 for 1 minute. This sounds like an oddly long time.
 * `p.397` in Splash of Art: "**Sluggish** 1 for 1 round". What's the Sluggish condition? Is this meant to be the **Clumsy** condition?
@@ -95,6 +100,7 @@ If you know of an error that isn't on this list, there are a few ways you can te
 * `p.586` in Mithral Shield: Standard-grade has a bulk of **L**. Looks like it should be **1**.
 * `p.594` in Staff of Necromancy: The Greater Staff of Necromancy adds the spell **Enervation**. This spell appears to not exist in this book.
 ---
+* `p.635` in rarity: "Anything that doesn't list a rarity is common. 13, **535**, GM advice 488". Should be **534**.
 * `p.680` in Hidden: "when targeting you with an attack, spell, or other effect or it **fails affect** you". Replace with "**fails to affect**".
 
 ### Core Rulebook PDF
@@ -103,13 +109,14 @@ If you know of an error that isn't on this list, there are a few ways you can te
 
 ## Bestiary
 
-* `p.150` The Air Mephit has a +19 Reflex save. This is high to a statistically significant extent for a level 1 creature. See note at the bottom of this post.
-* `p.157` The Faerie Dragon has a +16 Perception. This is high to a statistically significant extent for a level 2 creature. See note at the bottom of this post.
+* `p.150`: The Air Mephit has a +19 Reflex save. This is high to a statistically significant extent for a level 1 creature. See note at the bottom of this post.
+* `p.157`: The Faerie Dragon has a +16 Perception. This is high to a statistically significant extent for a level 2 creature. See note at the bottom of this post.
 * `p.174` in Storm Giant: **Sense Motive** is listed as one of its skills.
 * `p.195`: Grikkitog says "Resistances 10 (except adamantine)". What kind of resistance? Physical? All?
 * `p.208` in sidebar: "the crafting of a soulbound doll (page **306**)". Should be **304**.
 * `p.340` in Zombie Abilities, Rotting Aura: "Any living creature that starts its turn within 10 feet of the zombie and is not at full Hit Points takes 1d6 damage as its wounds fester". No damage type is specified, should probably be **negative**.
-* `p.351` "Skum" on page 12 are not included in the index by level.
+* `p.351`: "Skum" on page 12 are not included in the index by level.
+* `p.355`: The Pixie is listed as being on p.**310**. It should say **309**. 
 
 
 ## Age of Ashes: Hellknight Hill
@@ -147,3 +154,5 @@ If you know of an error that isn't on this list, there are a few ways you can te
 * As brought up [here](https://paizo.com/threads/rzs42nmp&page=3?TyposMistakesEtc-in-2E-Books-Collection#136), there's something odd about the Monk Dedication feat.
 
 * [Andrew Mullen](https://paizo.com/threads/rzs42nmp&page=3?TyposMistakesEtc-in-2E-Books-Collection#140) noticed that the 8th level barbarian feat, Animal Rage, doesn't seem like it does much.
+
+* [Seems worth looking into this discussion on mutagen rules](https://paizo.com/threads/rzs42nmp&page=4?TyposMistakesEtc-in-2E-Books-Collection#170). This linked post it only the latest in an ongoing conversation about what might be some leftover text from the playtest, and generally [Brew Bird](https://paizo.com/threads/rzs42nmp&page=4?TyposMistakesEtc-in-2E-Books-Collection#169) points out multiple possible issues with the way mutagens are written.
