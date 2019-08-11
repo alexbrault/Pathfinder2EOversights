@@ -1,5 +1,5 @@
-# Pathfinder 2E Mistakes
-A central listing of all the typos/mistakes/etc found in the initial books launched for Pathfinder 2E.
+# Pathfinder 2E Oversights
+A central listing of all the typos/oversights/potential errors/etc found in the initial books launched for Pathfinder 2E.
 
 I try not to add too many things related more to just the rules being ambiguous, or otherwise FAQ candidates, in order to try and control the scope of this list, though you may notice I give mention to a few possible FAQ candidates people have raised in the last section of this.
 
