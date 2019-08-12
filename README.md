@@ -176,3 +176,5 @@ If you know of an error that isn't on this list, there are a few ways you can te
 * Sanity check: Is it expected that at level 19, a fighter's proficiency in unarmed attacks jumps from expert to legendary, with no other ability since level 1 improving that expert proficiency?
 
 * Sanity check on Death's Call on `p.391`: Is it meant to use your Wisdom modifier even when Wisdom isn't your casting stat?
+
+* There's some [oddities and discussion here](https://paizo.com/threads/rzs42nr6?Wounded-and-taking-damage-while-dying) around the rules for taking damage while wounded.
