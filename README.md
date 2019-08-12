@@ -19,6 +19,7 @@ If you know of an error that isn't on this list, there are a few ways you can te
 * `p.26` in Step 7: "Likewise, record your character's **their** armor proficiencies in the...". Word should be deleted.
 * `p.34` in Society: "**Today's dwarves today** retain". Remove one of the "today"s.
 * `p.41` in Universal Longevity: "changing the skills you selected with **Elven Longevity** and Expert Longevity". Is this meant to be referencing **Ancestral Longevity**?
+* `p.44` in Gnome Weapon Familiarity: "You are trained with the glaive and kukri. In addition, you gain access to all uncommon gnome weapons." The kukri doesn't have the gnome tag, and is uncommon. Is it just missing the gnome tag then?
 ---
 * `p.52` and `p.59`: Halfling and Orc Weapon Familiarity ancestry feats are missing the line "For the purpose of determining your proficiency."
 * `p.62` in "Field Medic" description: "You gain the **Battle Medic** skill feat." The feat as listed on `p.258` is named **Battle Medicine**.
