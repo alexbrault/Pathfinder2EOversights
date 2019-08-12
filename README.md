@@ -36,6 +36,7 @@ If you know of an error that isn't on this list, there are a few ways you can te
 ---
 * `p.156` in Mystic Strikes: "However, you still need an item such as **handswarps of mighty fists**...". Should be "**handwraps of mighty blows**".
 * `p.157-158`: Does it say anywhere that monk spells start on page 401? Worth considering adding?
+* `p.159` in Mountain Stance: "Trigger You are unarmored and touching the ground" should be "Requirements You are unarmored and touching the ground".
 * `p.162` Ki Monk question: Is this sidebar saying that Wisdom is supposed to be the key ability for a monk's ki/spell attacks?
 * `p.170` in Ranger Feats sidebar: "To the Ends of the Earth" and "Triple Threat" have the same background color instead of alternating.
 * `p.176` in Stealthy Companion: Doesn't list Animal Companion as a prerequisite.
@@ -156,3 +157,5 @@ If you know of an error that isn't on this list, there are a few ways you can te
 * [Andrew Mullen](https://paizo.com/threads/rzs42nmp&page=3?TyposMistakesEtc-in-2E-Books-Collection#140) noticed that the 8th level barbarian feat, Animal Rage, doesn't seem like it does much.
 
 * [Seems worth looking into this discussion on mutagen rules](https://paizo.com/threads/rzs42nmp&page=4?TyposMistakesEtc-in-2E-Books-Collection#170). This linked post it only the latest in an ongoing conversation about what might be some leftover text from the playtest, and generally [Brew Bird](https://paizo.com/threads/rzs42nmp&page=4?TyposMistakesEtc-in-2E-Books-Collection#169) points out multiple possible issues with the way mutagens are written.
+
+* There are only 2 actions in the game currently that have a cost attribute in their blocks outside of spells and rituals, Channel Smite and Quick Alchemy. Cost does not appear in the feat/action block description on 'p.18' and these would make more sense to be rewritten as requirements.
