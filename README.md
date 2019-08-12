@@ -53,7 +53,7 @@ If you know of an error that isn't on this list, there are a few ways you can te
 * `p.201` in Metamagic Mastery: Last sentence has an extra period.
 * `p.206` in Sample Spellbook: **study aura** is listed as a cantrip. This cantrip doesn't exist. Is this supposed to be the **read aura** cantrip?
 * `p.209` in Familiar: "You make a pact with creature". Should be "You make a pact with **a** creature".
-* `p.212` in Clever Counterspell: "Prerequisites: Counterspell, **Quick Recognize**". What is Quick Recognize? Is this meant to be the **Quick Identification** skill feat?
+* `p.212` in Clever Counterspell: "Prerequisites: Counterspell, **Quick Recognize**". What is Quick Recognize? Is this meant to be the **Quick Identification** skill feat? Or **Quick Recognition**?
 * `p.214` in Animal Companions: "An animal companion is a loyal comrade who follows your orders without you needing to use **Handle an Animal** on it". Should be **Command an Animal**.
 * `p.216` Is the Support benefit of the horse really meant to result in the same damage regardless of whether you use a Jousting weapon or not?
 ---
