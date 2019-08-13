@@ -29,6 +29,7 @@ If you know of an error that isn't on this list, there are a few ways you can te
 * `p.84` in Rage: "You deal 2 additional damage with melee **weapons** and unarmed attacks." Worth changing to **attacks** just to make sure no one thinks Rage can be applied to thrown melee weapons?
 * `p.86` in Table 3-3 Animal Instincts: The deer has the trait **Charge**. Looks like this isn't a valid trait.
 * `p.91` in Thrash: "plus your **ferocious specialization** damage". What is that? Is that meant to be **weapon specialization**? (Credit to [/u/boomstik101](https://www.reddit.com/r/Pathfinder2e/comments/cfomkf/barbarian_ferocious_specilization_damage/) on Reddit.)
+* `p.91` in Sudden Leap: Missing the 2 action icon that is found on the feat of the same name in Fighter's feats on `p.149`. Note: Fighters and Barbarians share multiple feats. The fighter feat also has a special tag that includes interactions the **Felling Strike** but this is probably because Barbarians do not have access to **Felling Strike**.
 * `p.93` in Dragon Transformation: "your breath weapon DC increases to 30". Isn't this leftover from the playtest? Shouldn't this instead be something like being able to use the barbarian's Class DC?
 * `p.96` in Bard Advancement: "10: Ability **boots**, bard feat, skill feat". Should be **boosts**.
 * `p.97` in Adaptive Adept: "or prepared spells just like the cantrip from Adapted **Spell**". Should be Adapted **Cantrip**.
