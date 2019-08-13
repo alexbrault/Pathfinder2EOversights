@@ -1,5 +1,5 @@
-# Pathfinder 2E Mistakes
-A central listing of all the typos/mistakes/etc found in the initial books launched for Pathfinder 2E.
+# Pathfinder 2E Oversights
+A central listing of all the typos/oversights/potential errors/etc found in the initial books launched for Pathfinder 2E.
 
 I try not to add too many things related more to just the rules being ambiguous, or otherwise FAQ candidates, in order to try and control the scope of this list, though you may notice I give mention to a few possible FAQ candidates people have raised in the last section of this.
 
@@ -19,11 +19,14 @@ If you know of an error that isn't on this list, there are a few ways you can te
 * `p.26` in Step 7: "Likewise, record your character's **their** armor proficiencies in the...". Word should be deleted.
 * `p.34` in Society: "**Today's dwarves today** retain". Remove one of the "today"s.
 * `p.41` in Universal Longevity: "changing the skills you selected with **Elven Longevity** and Expert Longevity". Is this meant to be referencing **Ancestral Longevity**?
+* `p.44` in Gnome Weapon Familiarity: "You are trained with the glaive and kukri. In addition, you gain access to all uncommon gnome weapons." The kukri doesn't have the gnome tag, and is uncommon. Is it just missing the gnome tag then?
 ---
+* `p.52` and `p.59`: Halfling and Orc Weapon Familiarity ancestry feats are missing the line "For the purpose of determining your proficiency."
 * `p.62` in "Field Medic" description: "You gain the **Battle Medic** skill feat." The feat as listed on `p.258` is named **Battle Medicine**.
 * `p.73` in Chirurgeon research field: "lesser antidote, less antiplague, or **lesser** elixir of life". This should be **minor** elixir of life, right? Found by [/u/HereWeGoTeddy on Reddit](https://www.reddit.com/r/Pathfinder2e/comments/ciqr0d/chirurgeon_class_feature_gives_lesser_elixir_of/).
-* `p.75` in Perpetual Infusions: "Mutagenist: Choose two of the following formulas: lesser bestial mutagen, **lesser bullheaded mutagen**...". There is no bullheaded mutagen in the rest of the book.
-
+* `p.75` in Perpetual Infusions: "Mutagenist: Choose two of the following formulas: lesser bestial mutagen, **lesser bullheaded mutagen**...". There is no bullheaded mutagen in this book.
+* `p.75` in Perpetual Infusions in Bomber: "lesser bottled lightning, **lesser liquid ice**, lesser tanglefoot bag...". Should be "**lesser frost vial**".
+* `p.84` in Rage: "You deal 2 additional damage with melee **weapons** and unarmed attacks." Worth changing to **attacks** just to make sure no one thinks Rage can be applied to thrown melee weapons?
 * `p.86` in Table 3-3 Animal Instincts: The deer has the trait **Charge**. Looks like this isn't a valid trait.
 * `p.91` in Thrash: "plus your **ferocious specialization** damage". What is that? Is that meant to be **weapon specialization**? (Credit to [/u/boomstik101](https://www.reddit.com/r/Pathfinder2e/comments/cfomkf/barbarian_ferocious_specilization_damage/) on Reddit.)
 * `p.93` in Dragon Transformation: "your breath weapon DC increases to 30". Isn't this leftover from the playtest? Shouldn't this instead be something like being able to use the barbarian's Class DC?
@@ -42,14 +45,15 @@ If you know of an error that isn't on this list, there are a few ways you can te
 * `p.176` in Stealthy Companion: Doesn't list Animal Companion as a prerequisite.
 * `p.184` in Minor Magic: Sweet, the Rogue gets spells. What ability do I use for the spell DC? There's also no trained proficiency in Spell DC or Spell Attack Roll.
 * `p.194` Are Sorcerers supposed to get **Resolve** at level 17? It's on the character specific sheet, and they're the only spellcaster to not get it, creating a strange gap between level 15 and 19. (Credit to [Elfteiroh](https://paizo.com/people/Elfteiroh).)
+* `p.195` in Reading a Bloodline Entry: "You automatically add the spells listed here to your spell repertoire, **in addtion to those you gain through sorcerer spellcasting**". Does this contradict the Spell Repertoire section? Is this a holdover from the playtest?
 * `p.199` Is Bespell Weapon a level **four** feat like the main entry says, or level **six** like the sidebar says?
 ---
 * `p.201` in Greater Mental Evolution: Missing the "Occult" trait.
 * `p.201` in Greater Vital Evolution: Missing the "Primal" trait.
 * `p.201` in Metamagic Mastery: Last sentence has an extra period.
-* `p.206` in Sample Spellbook: **study aura** is listed as a cantrip. This cantrip doesn't exist.
+* `p.206` in Sample Spellbook: **study aura** is listed as a cantrip. This cantrip doesn't exist. Is this supposed to be the **read aura** cantrip?
 * `p.209` in Familiar: "You make a pact with creature". Should be "You make a pact with **a** creature".
-* `p.212` in Clever Counterspell: "Prerequisites: Counterspell, **Quick Recognize**". What is Quick Recognize? Is this meant to be the **Quick Identification** skill feat?
+* `p.212` in Clever Counterspell: "Prerequisites: Counterspell, **Quick Recognize**". What is Quick Recognize? Is this meant to be the **Quick Identification** skill feat? Or **Quick Recognition**?
 * `p.214` in Animal Companions: "An animal companion is a loyal comrade who follows your orders without you needing to use **Handle an Animal** on it". Should be **Command an Animal**.
 * `p.216` Is the Support benefit of the horse really meant to result in the same damage regardless of whether you use a Jousting weapon or not?
 ---
@@ -62,16 +66,20 @@ If you know of an error that isn't on this list, there are a few ways you can te
 * `p.278` in Improvised Weapons: What proficiency bonus do players use for improvised weapons?
 * `p.284` in Bastard Sword: "...it can be held in one hand or used with two hands to provide extra **piercing** or slashing power". Bastard swords don't deal piercing damage.
 * `p.288` Mark Seifter mentioned in the Know Direction podcast that the item "Adventurer's pack" should have a Bulk of **1** instead of **2**.
+* `p.292` in Torch: Doesn't look like the torch lists a duration.
 * `p.293` vs `p.563` Is a Minor Healing Potion 3 or 4 gp?
 * `p.295` in Table 6-18 Barding: If you can get animal armor with Heavy Barding that grants an AC bonus of +3, why does `p.214` say that animal companions are limited to gaining a +2 AC item bonus?
 * `p.298` in Disbelieving Illusions: Last sentence has an extra period.
 ---
 * `p.307` in "Charm", `p.308` in "Paralyze", and `p.309` in "Dominate". All three short-text versions of these spells reference targeting a "humanoid", but the full spell descriptions don't specify that the target needs to be humanoid.
 * `p.312` Table 3-11: Based on the text for primal spellcasting on page 130, should the Druid have **5** cantrips at all levels instead of the currently listed **4**? ([Credit to Runnetib](https://paizo.com/threads/rzs42nmp&page=4?TyposMistakesEtc-in-2E-Books-Collection#164), there is dev confirmation that this should be 5).
+* `p.326` in Continual Flame: Heightened versions of the spell say what the gold cost increases are, but not what actual effect that comes with.
 * `p.327` in Crusade: "You issue a divine mandage to the targets. **you** pronounce...". Should be capitalized? Or is there even a word missing?
+* `p.331` in Disrupt Undead: Missing the Cantrip tag.
 * `p.334` in Eclipse Burst: **Critical Failure** isn't bolded.
 * `p.343` in Harm spell: "You disperse **positive** energy in a 30-foot emanation". Should be **negative** energy.
 * `p.349` in Magic Aura spell: "A caster using detect magic or **study aura**...". This cantrip doesn't exist.
+---
 * `p.356` in Pest Form: "You transform into **a** the battle form of a Tiny animal". The extra "a" should be deleted.
 * `p.368` in Shadow Siphon: "instead take only half as much damage**.** but...". The period should be a comma.
 * `p.370` in Sound Burst: Critical Failure says stunned 1 for 1 minute. This sounds like an oddly long time.
@@ -93,6 +101,7 @@ If you know of an error that isn't on this list, there are a few ways you can te
 * `p.489` in Planning a Session Part 2: "Plan a time for everybody will arrive,...". Missed a word? Change **for** to **when**?
 * `p.491` in Adjudicating the Rules, second bullet: "(page **XXX**)" More placeholder text.
 * `p.491` "If you don't find one, make up an undefined action (page **XXX**)." Looks like leftover placeholder text.
+* `p.499` near the top: "Don't do this if it's absolutely clear another kind of check **matters more sense than** Perception". Perhaps, "**makes more sense than**"?
 ---
 * `p.544` in Splash Trait: "For example, if you threw a less acid flask and hit your target, that creature would take 1d6 persistent acid damage and 1 acid splash damage". It would also take an additional point of acid damage, as listed on the very last line of this page.
 * `p.552` in Giant Wasp Venom: "Stage 3 4d6 poison and clumsy". Missing the word "**damage**" after "poison".
@@ -159,3 +168,13 @@ If you know of an error that isn't on this list, there are a few ways you can te
 * [Seems worth looking into this discussion on mutagen rules](https://paizo.com/threads/rzs42nmp&page=4?TyposMistakesEtc-in-2E-Books-Collection#170). This linked post it only the latest in an ongoing conversation about what might be some leftover text from the playtest, and generally [Brew Bird](https://paizo.com/threads/rzs42nmp&page=4?TyposMistakesEtc-in-2E-Books-Collection#169) points out multiple possible issues with the way mutagens are written.
 
 * There are only 2 actions in the game currently that have a cost attribute in their blocks outside of spells and rituals, Channel Smite and Quick Alchemy. Cost does not appear in the feat/action block description on 'p.18' and these would make more sense to be rewritten as requirements.
+
+* [RAI clarification on applying poison to ammunition and ammunition retrieval](https://paizo.com/threads/rzs42nmp&page=4?TyposMistakesEtc-in-2E-Books-Collection#196) would be great.
+
+* There are some odd edge cases around dead/dying when, for example, a character is reduced to zero HP by another creature's reaction. [Discussion and suggested errata change here.](https://paizo.com/threads/rzs42owo?Locking-Yourself-Out-of-the-Game-and-Other#14)
+
+* Sanity check: Is it expected that at level 19, a fighter's proficiency in unarmed attacks jumps from expert to legendary, with no other ability since level 1 improving that expert proficiency?
+
+* Sanity check on Death's Call on `p.391`: Is it meant to use your Wisdom modifier even when Wisdom isn't your casting stat?
+
+* There's some [oddities and discussion here](https://paizo.com/threads/rzs42nr6?Wounded-and-taking-damage-while-dying) around the rules for taking damage while wounded.
