@@ -35,6 +35,7 @@ If you know of an error that isn't on this list, there are a few ways you can te
 * `p.97` in Adaptive Adept: "or prepared spells just like the cantrip from Adapted **Spell**". Should be Adapted **Cantrip**.
 ---
 * `p.103` in Effortless Concentration: This version for the bard has a requirement of having not acted on your turn yet. Is it on purpose that this is different from the version that Druids (p.138), Sorcerers (p.201), and Wizards (p.213) have, which only have a trigger of their turn beginning? 
+* `p.132` Table 3-11: Based on the text for primal spellcasting on page 130, should the Druid have **5** cantrips at all levels instead of the currently listed **4**? ([Credit to Runnetib](https://paizo.com/threads/rzs42nmp&page=4?TyposMistakesEtc-in-2E-Books-Collection#164), there is dev confirmation that this should be 5).
 * `p.139` in the Primal Wellspring feat: "Prerequisites: **Wild Focus**". Should be "Prerequisites: **Primal Focus**".
 * `p.139` in Monstrosity Shape: "add the phoenix form listed in **aerial form** to your wild shape list". Phoenix form is actually listed in **monstrosity form**.
 * `p.145`: Page number is blocked by fighter's foot.
@@ -74,7 +75,6 @@ If you know of an error that isn't on this list, there are a few ways you can te
 * `p.298` in Disbelieving Illusions: Last sentence has an extra period.
 ---
 * `p.307` in "Charm", `p.308` in "Paralyze", and `p.309` in "Dominate". All three short-text versions of these spells reference targeting a "humanoid", but the full spell descriptions don't specify that the target needs to be humanoid.
-* `p.312` Table 3-11: Based on the text for primal spellcasting on page 130, should the Druid have **5** cantrips at all levels instead of the currently listed **4**? ([Credit to Runnetib](https://paizo.com/threads/rzs42nmp&page=4?TyposMistakesEtc-in-2E-Books-Collection#164), there is dev confirmation that this should be 5).
 * `p.326` in Continual Flame: Heightened versions of the spell say what the gold cost increases are, but not what actual effect that comes with.
 * `p.327` in Crusade: "You issue a divine mandage to the targets. **you** pronounce...". Should be capitalized? Or is there even a word missing?
 * `p.331` in Disrupt Undead: Missing the Cantrip tag.
