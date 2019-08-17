@@ -43,11 +43,11 @@ If you know of an error that isn't on this list, there are a few ways you can te
 * `p.156` in Mystic Strikes: "However, you still need an item such as **handswarps of mighty fists**...". Should be "**handwraps of mighty blows**".
 * `p.157-158`: Does it say anywhere that monk spells start on page 401? Worth considering adding?
 * `p.159` in Mountain Stance: "Trigger You are unarmored and touching the ground" should be "Requirements You are unarmored and touching the ground".
-* `p.162` Ki Monk question: Is this sidebar saying that Wisdom is supposed to be the key ability for a monk's ki/spell attacks?
+* ~~`p.162` Ki Monk question: Is this sidebar saying that Wisdom is supposed to be the key ability for a monk's ki/spell attacks?~~ [Confirmed by Errata](https://www.reddit.com/r/Pathfinder2e/comments/crgobt/pathfinder_2e_errata_from_the_designers/) that Ki spells use a monk's Wisdom.
 * `p.170` in Ranger Feats sidebar: "To the Ends of the Earth" and "Triple Threat" have the same background color instead of alternating.
 * `p.176` in Stealthy Companion: Doesn't list Animal Companion as a prerequisite.
 * `p.184` in Minor Magic: Sweet, the Rogue gets spells. What ability do I use for the spell DC? There's also no trained proficiency in Spell DC or Spell Attack Roll.
-* `p.194` Are Sorcerers supposed to get **Resolve** at level 17? It's on the character specific sheet, and they're the only spellcaster to not get it, creating a strange gap between level 15 and 19. (Credit to [Elfteiroh](https://paizo.com/people/Elfteiroh).)
+* ~~`p.194` Are Sorcerers supposed to get **Resolve** at level 17? It's on the character specific sheet, and they're the only spellcaster to not get it, creating a strange gap between level 15 and 19. (Credit to [Elfteiroh](https://paizo.com/people/Elfteiroh).)~~ [Confirmed by Errata](https://www.reddit.com/r/Pathfinder2e/comments/crgobt/pathfinder_2e_errata_from_the_designers/) that sorcerers should get the Resolve class feature at 17th level, same as the wizard.
 * `p.195` in Reading a Bloodline Entry: "You automatically add the spells listed here to your spell repertoire, **in addtion to those you gain through sorcerer spellcasting**". Does this contradict the Spell Repertoire section? Is this a holdover from the playtest?
 * `p.199` Is Bespell Weapon a level **four** feat like the main entry says, or level **six** like the sidebar says?
 ---
@@ -69,7 +69,7 @@ If you know of an error that isn't on this list, there are a few ways you can te
 * `p.278` in Improvised Weapons: What proficiency bonus do players use for improvised weapons?
 * `p.284` in Bastard Sword: "...it can be held in one hand or used with two hands to provide extra **piercing** or slashing power". Bastard swords don't deal piercing damage.
 * `p.287` in Candle: Doesn't list a duration.
-* `p.288` Mark Seifter mentioned in the Know Direction podcast that the item "Adventurer's pack" should have a Bulk of **1** instead of **2**.
+* `p.288` Mark Seifter mentioned in the Know Direction podcast that the item "Adventurer's pack" should have a Bulk of **1** instead of **2**. [Double confirmed by errata](https://www.reddit.com/r/Pathfinder2e/comments/crgobt/pathfinder_2e_errata_from_the_designers/)
 * `p.292` in Torch: Doesn't look like the torch lists a duration.
 * `p.293` vs `p.563` Is a Minor Healing Potion 3 or 4 gp?
 * `p.295` in Table 6-18 Barding: If you can get animal armor with Heavy Barding that grants an AC bonus of +3, why does `p.214` say that animal companions are limited to gaining a +2 AC item bonus?
