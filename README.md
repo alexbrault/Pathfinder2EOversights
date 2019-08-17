@@ -68,6 +68,7 @@ If you know of an error that isn't on this list, there are a few ways you can te
 * `p.278` in Critical Hits: "When you make an attack and roll a natural 20... or if the result of your attack exceeds the target's AC by 10, you achieve a critical success." A nat 20 does not guarantee a critical success.
 * `p.278` in Improvised Weapons: What proficiency bonus do players use for improvised weapons?
 * `p.284` in Bastard Sword: "...it can be held in one hand or used with two hands to provide extra **piercing** or slashing power". Bastard swords don't deal piercing damage.
+* `p.287` in Candle: Doesn't list a duration.
 * `p.288` Mark Seifter mentioned in the Know Direction podcast that the item "Adventurer's pack" should have a Bulk of **1** instead of **2**.
 * `p.292` in Torch: Doesn't look like the torch lists a duration.
 * `p.293` vs `p.563` Is a Minor Healing Potion 3 or 4 gp?
@@ -75,6 +76,7 @@ If you know of an error that isn't on this list, there are a few ways you can te
 * `p.298` in Disbelieving Illusions: Last sentence has an extra period.
 ---
 * `p.307` in "Charm", `p.308` in "Paralyze", and `p.309` in "Dominate". All three short-text versions of these spells reference targeting a "humanoid", but the full spell descriptions don't specify that the target needs to be humanoid.
+* `p.322` in "Charm" and `p.390` in "Charming Touch": [Colette Brunel](https://paizo.com/threads/rzs42pdf?Charm-Charming-Touch-and-Identify-Magic) points out that these spells mentions of Identify Magic doesn't make sense. Is it meant to be Recall Knowledge? Also, the condition appendix says that PCs aren't affected by the friendly and helpful conditions, so do these spells not do anything to PCs?
 * `p.326` in Continual Flame: Heightened versions of the spell say what the gold cost increases are, but not what actual effect that comes with.
 * `p.327` in Crusade: "You issue a divine mandage to the targets. **you** pronounce...". Should be capitalized? Or is there even a word missing?
 * `p.331` in Disrupt Undead: Missing the Cantrip tag.
@@ -109,9 +111,11 @@ If you know of an error that isn't on this list, there are a few ways you can te
 * `p.552` in Giant Wasp Venom: "Stage 3 4d6 poison and clumsy". Missing the word "**damage**" after "poison".
 * `p.556` in Armor Alternatives: Per a quote from Mark Seifter (thanks, PF Discord!), looks like the intention was that Bracers of Armor are supposed to have their listed dex cap of +5 from page 607.
 * `p.572` in Bag of Holding: How is it held in two hands if you're able to put and remove items from it like a mundane sack?
+* `p.583` in Shadow: The stateblock says "Rune 5+", but the lowest-level version is Level 3.
 * `p.586` in Mithral Shield: Standard-grade has a bulk of **L**. Looks like it should be **1**.
 * `p.594` in Staff of Necromancy: The Greater Staff of Necromancy adds the spell **Enervation**. This spell appears to not exist in this book.
 ---
+* `p.618` in Broken: "An object is broken when damage has reduced its Hit Points **below** its Broken Threshold.... If an effect makes an item broken automatically... that effect also reduces the item's current HP **to the Broken Threshold**. Kind of minor, but seems worth clearing up the inconsistency.
 * `p.635` in rarity: "Anything that doesn't list a rarity is common. 13, **535**, GM advice 488". Should be **534**.
 * `p.680` in Hidden: "when targeting you with an attack, spell, or other effect or it **fails affect** you". Replace with "**fails to affect**".
 
@@ -180,3 +184,5 @@ If you know of an error that isn't on this list, there are a few ways you can te
 * Sanity check on Death's Call on `p.391`: Is it meant to use your Wisdom modifier even when Wisdom isn't your casting stat?
 
 * There's some [oddities and discussion here](https://paizo.com/threads/rzs42nr6?Wounded-and-taking-damage-while-dying) around the rules for taking damage while wounded.
+
+* Looks like by RAW, you could grabble, trip, etc, swarms. Pulling back on the harsh rles from PF1e is great at least.
