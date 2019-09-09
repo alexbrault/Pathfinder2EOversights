@@ -44,14 +44,17 @@ If you know of an error that isn't on this list, there are a few ways you can te
 * `p.157-158`: Does it say anywhere that monk spells start on page 401? Worth considering adding?
 * `p.159` in Mountain Stance: "Trigger You are unarmored and touching the ground" should be "Requirements You are unarmored and touching the ground".
 * ~~`p.162` Ki Monk question: Is this sidebar saying that Wisdom is supposed to be the key ability for a monk's ki/spell attacks?~~ [Confirmed by Errata](https://www.reddit.com/r/Pathfinder2e/comments/crgobt/pathfinder_2e_errata_from_the_designers/) that Ki spells use a monk's Wisdom.
+* `p.162` in sidebar: "Higher-Level Feats: **Mountain Stance (1st)**". Should be **Ki Strike (1st)**, as many of the other listed feats require it.
 * `p.170` in Ranger Feats sidebar: "To the Ends of the Earth" and "Triple Threat" have the same background color instead of alternating.
 * `p.176` in Stealthy Companion: Doesn't list Animal Companion as a prerequisite.
 * `p.184` in Minor Magic: Sweet, the Rogue gets spells. What ability do I use for the spell DC? There's also no trained proficiency in Spell DC or Spell Attack Roll.
+* `p.184` in Scoundrel sample rogue: Trap Finder sounds like an odd starting feat.
 * ~~`p.194` Are Sorcerers supposed to get **Resolve** at level 17? It's on the character specific sheet, and they're the only spellcaster to not get it, creating a strange gap between level 15 and 19. (Credit to [Elfteiroh](https://paizo.com/people/Elfteiroh).)~~ [Confirmed by Errata](https://www.reddit.com/r/Pathfinder2e/comments/crgobt/pathfinder_2e_errata_from_the_designers/) that sorcerers should get the Resolve class feature at 17th level, same as the wizard.
 * `p.195` in Reading a Bloodline Entry: "You automatically add the spells listed here to your spell repertoire, **in addtion to those you gain through sorcerer spellcasting**". Does this contradict the Spell Repertoire section? Is this a holdover from the playtest?
 * `p.199` Is Bespell Weapon a level **four** feat like the main entry says, or level **six** like the sidebar says?
 ---
 * `p.201` in Greater Mental Evolution: Missing the "Occult" trait.
+* `p.201` in Greater Mental Evolution: Mentions **mental essence** which was a concept from the Playtest. Should this be **mind essence** or something else?
 * `p.201` in Greater Vital Evolution: Missing the "Primal" trait.
 * `p.201` in Metamagic Mastery: Last sentence has an extra period.
 * `p.206` in Sample Spellbook: **study aura** is listed as a cantrip. This cantrip doesn't exist. Is this supposed to be the **read aura** cantrip?
@@ -107,6 +110,7 @@ If you know of an error that isn't on this list, there are a few ways you can te
 * `p.491` "If you don't find one, make up an undefined action (page **XXX**)." Looks like leftover placeholder text.
 * `p.499` near the top: "Don't do this if it's absolutely clear another kind of check **matters more sense than** Perception". Perhaps, "**makes more sense than**"?
 ---
+* `p.535` in Consumable: "as well as ammunition oils, potions, scrolls". Missing a comma between "ammunition" and "oils".
 * `p.544` in Splash Trait: "For example, if you threw a less acid flask and hit your target, that creature would take 1d6 persistent acid damage and 1 acid splash damage". It would also take an additional point of acid damage, as listed on the very last line of this page.
 * `p.552` in Giant Wasp Venom: "Stage 3 4d6 poison and clumsy". Missing the word "**damage**" after "poison".
 * `p.556` in Armor Alternatives: Per a quote from Mark Seifter (thanks, PF Discord!), looks like the intention was that Bracers of Armor are supposed to have their listed dex cap of +5 from page 607.
@@ -125,24 +129,18 @@ If you know of an error that isn't on this list, there are a few ways you can te
 
 ## Bestiary
 
+* `p.134` in Draconic Frenzy: "The frost drake makes two **gang Strikes**". Should be "**fang Strikes**".
 * `p.150`: The Air Mephit has a +19 Reflex save. This is high to a statistically significant extent for a level 1 creature. See note at the bottom of this post.
 * `p.157`: The Faerie Dragon has a +16 Perception. This is high to a statistically significant extent for a level 2 creature. See note at the bottom of this post.
 * `p.174` in Storm Giant: **Sense Motive** is listed as one of its skills.
 * `p.195`: Grikkitog says "Resistances 10 (except adamantine)". What kind of resistance? Physical? All?
 * `p.208` in sidebar: "the crafting of a soulbound doll (page **306**)". Should be **304**.
+* `p.255` in sidebar: The Shoggoth is listed as a variant ooze, though the Shoggoth doesn't have the Ooze trait. Also, the Shoggoth is listed as being on **p.297**, when it's on **p.293** instead.
+* `p.293`: Constrict attack has no DC against it. Is this on purpose?
 * `p.330` **Wolfsbane** sidebar and Core Rulebook Wolfsbane-entry (page 553) don't agree on effects of Wolfsbane on lycanthropy. (Allow re-save vs. curse for creatures not transformed yet vs. 'immediately cured of the lycanthropy')
 * `p.340` in Zombie Abilities, Rotting Aura: "Any living creature that starts its turn within 10 feet of the zombie and is not at full Hit Points takes 1d6 damage as its wounds fester". No damage type is specified, should probably be **negative**.
 * `p.351`: "Skum" on page 12 are not included in the index by level.
 * `p.355`: The Pixie is listed as being on p.**310**. It should say **309**. 
-
-
-## Age of Ashes: Hellknight Hill
-
-* `p.26` "they find an owlbear claw (Pathfinder Core Rulebook **570**)". The owlbear claw is listed on page **569**.
-
-## The Fall of Plaguestone
-
-* `p.52` "Delma **rung** the Feedmill" should be "**runs**".
 
 ## Character Sheet Pack
 
