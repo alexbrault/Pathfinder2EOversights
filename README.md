@@ -130,6 +130,7 @@ If you know of an error that isn't on this list, there are a few ways you can te
 * `p.174` in Storm Giant: **Sense Motive** is listed as one of its skills.
 * `p.195`: Grikkitog says "Resistances 10 (except adamantine)". What kind of resistance? Physical? All?
 * `p.208` in sidebar: "the crafting of a soulbound doll (page **306**)". Should be **304**.
+* `p.330` **Wolfsbane** sidebar and Core Rulebook Wolfsbane-entry (page 553) don't agree on effects of Wolfsbane on lycanthropy. (Allow re-save vs. curse for creatures not transformed yet vs. 'immediately cured of the lycanthropy')
 * `p.340` in Zombie Abilities, Rotting Aura: "Any living creature that starts its turn within 10 feet of the zombie and is not at full Hit Points takes 1d6 damage as its wounds fester". No damage type is specified, should probably be **negative**.
 * `p.351`: "Skum" on page 12 are not included in the index by level.
 * `p.355`: The Pixie is listed as being on p.**310**. It should say **309**. 
