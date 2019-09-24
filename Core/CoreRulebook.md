@@ -114,30 +114,7 @@
 
 * `p.376`: The bookmark for the Sunburst spell is misspelled as **Sunbirst**.
 
-# Bestiary
-
-* `p.134` in Draconic Frenzy: "The frost drake makes two **gang Strikes**". Should be "**fang Strikes**".
-* `p.150`: The Air Mephit has a +19 Reflex save. This is high to a statistically significant extent for a level 1 creature. See note at the bottom of this post.
-* `p.157`: The Faerie Dragon has a +16 Perception. This is high to a statistically significant extent for a level 2 creature. See note at the bottom of this post.
-* `p.174` in Storm Giant: **Sense Motive** is listed as one of its skills.
-* `p.195`: Grikkitog says "Resistances 10 (except adamantine)". What kind of resistance? Physical? All?
-* `p.208` in sidebar: "the crafting of a soulbound doll (page **306**)". Should be **304**.
-* `p.255` in sidebar: The Shoggoth is listed as a variant ooze, though the Shoggoth doesn't have the Ooze trait. Also, the Shoggoth is listed as being on **p.297**, when it's on **p.293** instead.
-* `p.293`: Constrict attack has no DC against it. Is this on purpose?
-* `p.330` **Wolfsbane** sidebar and Core Rulebook Wolfsbane-entry (page 553) don't agree on effects of Wolfsbane on lycanthropy. (Allow re-save vs. curse for creatures not transformed yet vs. 'immediately cured of the lycanthropy')
-* `p.340` in Zombie Abilities, Rotting Aura: "Any living creature that starts its turn within 10 feet of the zombie and is not at full Hit Points takes 1d6 damage as its wounds fester". No damage type is specified, should probably be **negative**.
-* `p.351`: "Skum" on page 12 are not included in the index by level.
-* `p.355`: The Pixie is listed as being on p.**310**. It should say **309**.
-
-# Character Sheet Pack
-
-* Many of the fighter's odd-level class features were misprinted in their even-level class feat boxes, making those boxes unusable.
-
 # Other Notes/FAQ Candidates
-
-* ~~Ok. So. The Faerie Dragon. [Deadmanwalking](https://paizo.com/threads/rzs42nmp&page=2?TyposMistakesEtc-in-2E-Books-Collection#81) pointed out that +16 seemed like a high perception for a level 2 creature. Now, I'm a data nerd. I wasn't going to include that without statistically proving that. So.....I went through the bestiary and tracked what all of their perception bonuses are. And [sure enough, here we have it](https://i.imgur.com/7YJQIQA.png). That data point of 16 is anomylously high compared to all the other perception values for level 2 creatures. Is this on purpose or ok? I'll leave that up to Paizo folks. Either way, wow I commit to these rabbit holes, lol.~~ [Confirmed by Chapter 2 of Game Mastery Guide preview](https://www.reddit.com/r/Pathfinder2e/comments/d16rwm/everything_we_learned_about_the_gamemastery_guide/) that some monsters are just really good at something every once in a great while.
-
-* ~~[Elro the Onk](https://paizo.com/threads/rzs42nmp&page=3?TyposMistakesEtc-in-2E-Books-Collection#112) noted in a similar vein: the air mephit (elemental) has an anomalously high Reflex save (+19). As with the faerie dragon and Perception, it's not out of meme for the creature to have a high score in the stat, but it's similarly *so* high that it's probably a typo of some sort. (For the data nerds: the spread on Reflex saves is +0-8 for L-1, +4-8 for L0, +1-11 for L1 (excluding the air mephit's +19), and +3-12 for L2. That's all I've analysed so far!)~~ [Confirmed by Chapter 2 of Game Mastery Guide preview](https://www.reddit.com/r/Pathfinder2e/comments/d16rwm/everything_we_learned_about_the_gamemastery_guide/) that some monsters are just really good at something every once in a great while.
 
 * [Fowlj](https://paizo.com/threads/rzs42nmp&page=2?TyposMistakesEtc-in-2E-Books-Collection#85) mentioned oddities with the "gold left over" sections for each class' kits. I fully admit I am out of brain power to look into all of those. Worth double checking the math on how much gold each class kit actually costs though.
 
