@@ -7,6 +7,7 @@ I try not to add too many things related more to just the rules being ambiguous,
 
 * [Core products](./Core)
 * [Adventure Paths](./APs)
+* [Modules](./Modules)
 * [Lost Omens](./LostOmens)
 
 ## How to Contribute
@@ -15,5 +16,9 @@ If you know of an error that isn't on this list, there are a few ways you can te
 
 1. If you know Git and some basic markdown, you can make a pull request against this repo and I'll verify it with my own book and approve the PR.
 2. You can submit an issue against this repo up in the `Issues` tab and I will add it to the list, closing the issue when I have added it to the list.
-3. Make a post in [this thread on the Paizo forums](https://paizo.com/threads/rzs42nmp&TyposMistakesEtc-in-2E-Books-Collection) which I also check periodically for newly found errors.
+3. Make a post in [this thread on the Paizo forums][update thread] which I also check periodically for newly found errors.
+  The latest comment included is
+  [#373][latest update]
 
+[update thread]: https://paizo.com/threads/rzs42nmp&TyposMistakesEtc-in-2E-Books-Collection
+[latest update]: https://paizo.com/threads/rzs42nmp&page=7?TyposMistakesEtc-in-2E-Books-Collection#373

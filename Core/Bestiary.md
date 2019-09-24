@@ -4,10 +4,23 @@
 * `p.150`: The Air Mephit has a +19 Reflex save. This is high to a statistically significant extent for a level 1 creature. See note at the bottom of this post.
 * `p.157`: The Faerie Dragon has a +16 Perception. This is high to a statistically significant extent for a level 2 creature. See note at the bottom of this post.
 * `p.174` in Storm Giant: **Sense Motive** is listed as one of its skills.
+* `p.178-179`: Gnolls' stat block lists skills, then languages, then ability modifiers.
+  All other stat blocks list languages, then skills, then ability modifiers.
 * `p.195`: Grikkitog says "Resistances 10 (except adamantine)". What kind of resistance? Physical? All?
 * `p.208` in sidebar: "the crafting of a soulbound doll (page **306**)". Should be **304**.
+* `p.220-221`: The Lich Abilities give custom liches **cold 20, physical 15 (except magic bludgeoning)** resistances.
+  The sample Lich only has **cold 10, physical 10 (except magic bludgeoning)**.
 * `p.255` in sidebar: The Shoggoth is listed as a variant ooze, though the Shoggoth doesn't have the Ooze trait. Also, the Shoggoth is listed as being on **p.297**, when it's on **p.293** instead.
+* `p.256-257`: The Orc Warrior has the same to hit bonus with its fists as the Orc Brute despite having more Strength and a higher level.
+* `p.257`: The Orc Warchief has a lower Constitution modifier than the Orc Brute and Warrior.
 * `p.293`: Constrict attack has no DC against it. Is this on purpose?
+* `p.308-309`: Grigs and Pixies have the **CN** trait.
+  In first edition, they were neutral good.
+  Their description, especially the grigs', seem to tend more towards good than neutral.
+* `p.312`: Treerazer's stat block lists languages, then ability modifers, then skills.
+  All other stat blocks list languages, then skills, then ability modifiers.
+* `p.328`: The third paragraph of the **Afflicted and true werecreatures** section mentions "*Affected werewolves*".
+  This should probably be "*Afflicted werecreatures*"
 * `p.330` **Wolfsbane** sidebar and Core Rulebook Wolfsbane-entry (page 553) don't agree on effects of Wolfsbane on lycanthropy. (Allow re-save vs. curse for creatures not transformed yet vs. 'immediately cured of the lycanthropy')
 * `p.340` in Zombie Abilities, Rotting Aura: "Any living creature that starts its turn within 10 feet of the zombie and is not at full Hit Points takes 1d6 damage as its wounds fester". No damage type is specified, should probably be **negative**.
 * `p.351`: "Skum" on page 12 are not included in the index by level.
