@@ -7,6 +7,7 @@ I try not to add too many things related more to just the rules being ambiguous,
 
 * [Core products](./Core)
 * [Adventure Paths](./APs)
+* [Lost Omens](./LostOmens)
 
 ## How to Contribute
 
