@@ -6,6 +6,7 @@ I try not to add too many things related more to just the rules being ambiguous,
 ## Corrections
 
 * [Core products](./Core)
+* [Adventure Paths](./APs)
 
 ## How to Contribute
 
