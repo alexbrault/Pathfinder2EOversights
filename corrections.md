@@ -1,17 +1,4 @@
-# Pathfinder 2E Oversights
-A central listing of all the typos/oversights/potential errors/etc found in the initial books launched for Pathfinder 2E.
-
-I try not to add too many things related more to just the rules being ambiguous, or otherwise FAQ candidates, in order to try and control the scope of this list, though you may notice I give mention to a few possible FAQ candidates people have raised in the last section of this.
-
-## How to Contribute
-
-If you know of an error that isn't on this list, there are a few ways you can tell me:
-
-1. If you know Git and some basic markdown, you can make a pull request against this repo and I'll verify it with my own book and approve the PR.
-2. You can submit an issue against this repo up in the `Issues` tab and I will add it to the list, closing the issue when I have added it to the list.
-3. Make a post in [this thread on the Paizo forums](https://paizo.com/threads/rzs42nmp&TyposMistakesEtc-in-2E-Books-Collection) which I also check periodically for newly found errors.
-
-## Core Rulebook
+# Core Rulebook
 
 * `p.17` The **Single Actions** heading is very washed out.
 * `p.20` under Ability Score Overview; Ancestry: "If you are taking any voluntary flaws, apply them in this step (see the sidebar on page **24**)". This should be page **26**.
@@ -34,7 +21,7 @@ If you know of an error that isn't on this list, there are a few ways you can te
 * `p.96` in Bard Advancement: "10: Ability **boots**, bard feat, skill feat". Should be **boosts**.
 * `p.97` in Adaptive Adept: "or prepared spells just like the cantrip from Adapted **Spell**". Should be Adapted **Cantrip**.
 ---
-* `p.103` in Effortless Concentration: This version for the bard has a requirement of having not acted on your turn yet. Is it on purpose that this is different from the version that Druids (p.138), Sorcerers (p.201), and Wizards (p.213) have, which only have a trigger of their turn beginning? 
+* `p.103` in Effortless Concentration: This version for the bard has a requirement of having not acted on your turn yet. Is it on purpose that this is different from the version that Druids (p.138), Sorcerers (p.201), and Wizards (p.213) have, which only have a trigger of their turn beginning?
 * `p.132` Table 3-11: Based on the text for primal spellcasting on page 130, should the Druid have **5** cantrips at all levels instead of the currently listed **4**? ([Credit to Runnetib](https://paizo.com/threads/rzs42nmp&page=4?TyposMistakesEtc-in-2E-Books-Collection#164), there is dev confirmation that this should be 5).
 * `p.139` in the Primal Wellspring feat: "Prerequisites: **Wild Focus**". Should be "Prerequisites: **Primal Focus**".
 * `p.139` in Monstrosity Shape: "add the phoenix form listed in **aerial form** to your wild shape list". Phoenix form is actually listed in **monstrosity form**.
@@ -123,11 +110,11 @@ If you know of an error that isn't on this list, there are a few ways you can te
 * `p.635` in rarity: "Anything that doesn't list a rarity is common. 13, **535**, GM advice 488". Should be **534**.
 * `p.680` in Hidden: "when targeting you with an attack, spell, or other effect or it **fails affect** you". Replace with "**fails to affect**".
 
-### Core Rulebook PDF
+## Core Rulebook PDF
 
 * `p.376`: The bookmark for the Sunburst spell is misspelled as **Sunbirst**.
 
-## Bestiary
+# Bestiary
 
 * `p.134` in Draconic Frenzy: "The frost drake makes two **gang Strikes**". Should be "**fang Strikes**".
 * `p.150`: The Air Mephit has a +19 Reflex save. This is high to a statistically significant extent for a level 1 creature. See note at the bottom of this post.
@@ -140,13 +127,13 @@ If you know of an error that isn't on this list, there are a few ways you can te
 * `p.330` **Wolfsbane** sidebar and Core Rulebook Wolfsbane-entry (page 553) don't agree on effects of Wolfsbane on lycanthropy. (Allow re-save vs. curse for creatures not transformed yet vs. 'immediately cured of the lycanthropy')
 * `p.340` in Zombie Abilities, Rotting Aura: "Any living creature that starts its turn within 10 feet of the zombie and is not at full Hit Points takes 1d6 damage as its wounds fester". No damage type is specified, should probably be **negative**.
 * `p.351`: "Skum" on page 12 are not included in the index by level.
-* `p.355`: The Pixie is listed as being on p.**310**. It should say **309**. 
+* `p.355`: The Pixie is listed as being on p.**310**. It should say **309**.
 
-## Character Sheet Pack
+# Character Sheet Pack
 
 * Many of the fighter's odd-level class features were misprinted in their even-level class feat boxes, making those boxes unusable.
 
-## Other Notes/FAQ Candidates
+# Other Notes/FAQ Candidates
 
 * ~~Ok. So. The Faerie Dragon. [Deadmanwalking](https://paizo.com/threads/rzs42nmp&page=2?TyposMistakesEtc-in-2E-Books-Collection#81) pointed out that +16 seemed like a high perception for a level 2 creature. Now, I'm a data nerd. I wasn't going to include that without statistically proving that. So.....I went through the bestiary and tracked what all of their perception bonuses are. And [sure enough, here we have it](https://i.imgur.com/7YJQIQA.png). That data point of 16 is anomylously high compared to all the other perception values for level 2 creatures. Is this on purpose or ok? I'll leave that up to Paizo folks. Either way, wow I commit to these rabbit holes, lol.~~ [Confirmed by Chapter 2 of Game Mastery Guide preview](https://www.reddit.com/r/Pathfinder2e/comments/d16rwm/everything_we_learned_about_the_gamemastery_guide/) that some monsters are just really good at something every once in a great while.
 
