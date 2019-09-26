@@ -1,6 +1,7 @@
 # Bestiary
 
 * `p.11`: The pleroma's Sphere of Oblivion can be used as a ranged attack, but has no range listed.
+* `p.94`: The Dezullon's Constrict doesn't list a DC.
 * `p.134` in Draconic Frenzy: "The frost drake makes two **gang Strikes**". Should be "**fang Strikes**".
 * `p.150`: The Air Mephit has a +19 Reflex save. This is high to a statistically significant extent for a level 1 creature. See note at the bottom of this post.
 * `p.157`: The Faerie Dragon has a +16 Perception. This is high to a statistically significant extent for a level 2 creature. See note at the bottom of this post.
@@ -13,10 +14,12 @@
 * `p.208` in sidebar: "the crafting of a soulbound doll (page **306**)". Should be **304**.
 * `p.220-221`: The Lich Abilities give custom liches **cold 20, physical 15 (except magic bludgeoning)** resistances.
   The sample Lich only has **cold 10, physical 10 (except magic bludgeoning)**.
+* `p.250`: The Giant Octopus's Constrict doesn't list a DC.
 * `p.255` in sidebar: The Shoggoth is listed as a variant ooze, though the Shoggoth doesn't have the Ooze trait. Also, the Shoggoth is listed as being on **p.297**, when it's on **p.293** instead.
 * `p.256-257`: The Orc Warrior has the same to hit bonus with its fists as the Orc Brute despite having more Strength and a higher level.
 * `p.257`: The Orc Warchief has a lower Constitution modifier than the Orc Brute and Warrior.
-* `p.293`: Constrict attack has no DC against it. Is this on purpose?
+* `p.288`: The Sea Serpent's Constrict doesn't list a DC.
+* `p.288`: The Shoggoth's Constrict doesn't list a DC.
 * `p.308-309`: Grigs and Pixies have the **CN** trait.
   In first edition, they were neutral good.
   Their description, especially the grigs', seem to tend more towards good than neutral.
