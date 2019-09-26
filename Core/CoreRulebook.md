@@ -51,6 +51,8 @@
   This page offers no guidance on how long the process takes or what it costs
   (neither does the retraining section of the Game Mastering chapter)
 * ~~`p.194` Are Sorcerers supposed to get **Resolve** at level 17? It's on the character specific sheet, and they're the only spellcaster to not get it, creating a strange gap between level 15 and 19. (Credit to [Elfteiroh](https://paizo.com/people/Elfteiroh).)~~ [Confirmed by Errata](https://www.reddit.com/r/Pathfinder2e/comments/crgobt/pathfinder_2e_errata_from_the_designers/) that sorcerers should get the Resolve class feature at 17th level, same as the wizard.
+* `p.194, 207`: Both the sorcerer and wizard have a mechanically identical **Defensive Robes** feature, but the two have different flavour text.
+  Other instances of identical features, such as **Alertness**, **Magical Fortitude** or **Resolve**, use identical phrasing across all classes that share them.
 * `p.195` in Reading a Bloodline Entry: "You automatically add the spells listed here to your spell repertoire, **in addtion to those you gain through sorcerer spellcasting**". Does this contradict the Spell Repertoire section? Is this a holdover from the playtest?
 * `p.199` Is Bespell Weapon a level **four** feat like the main entry says, or level **six** like the sidebar says?
 ---
