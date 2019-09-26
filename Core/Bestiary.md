@@ -5,6 +5,8 @@
 * `p.150`: The Air Mephit has a +19 Reflex save. This is high to a statistically significant extent for a level 1 creature. See note at the bottom of this post.
 * `p.157`: The Faerie Dragon has a +16 Perception. This is high to a statistically significant extent for a level 2 creature. See note at the bottom of this post.
 * `p.174` in Storm Giant: **Sense Motive** is listed as one of its skills.
+* `p.174` in Storm Giant: The rock attack has a significantly higher attack bonus (+37) than its other attacks (+27-28).
+  Other giants have the same bonus with their rocks as with their fists.
 * `p.178-179`: Gnolls' stat block lists skills, then languages, then ability modifiers.
   All other stat blocks list languages, then skills, then ability modifiers.
 * `p.195`: Grikkitog says "Resistances 10 (except adamantine)". What kind of resistance? Physical? All?
