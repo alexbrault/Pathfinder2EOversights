@@ -108,6 +108,8 @@
 * `p.356` in Pest Form: "You transform into **a** the battle form of a Tiny animal". The extra "a" should be deleted.
 * `p.368` in Shadow Siphon: "instead take only half as much damage**.** but...". The period should be a comma.
 * `p.370` in Sound Burst: Critical Failure says stunned 1 for 1 minute. This sounds like an oddly long time.
+* `p.376` in Synaptic Pulse: "You emit a pulsating blast that penetrates the minds of all **enemies** in the area. Each **creature** in the area must attempt a Will save."
+  The spell should affect either all enemies or all creatures.
 * `p.383` in Wall of Force: a *rod of cancellation* is mentioned.
   No item named *rod of cancellation* is not currently published.
 * `p.397` in Splash of Art: "**Sluggish** 1 for 1 round". What's the Sluggish condition? Is this meant to be the **Clumsy** condition?
