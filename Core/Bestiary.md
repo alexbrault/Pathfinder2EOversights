@@ -2,6 +2,8 @@
 
 * `p.11`: The pleroma's Sphere of Oblivion can be used as a ranged attack, but has no range listed.
 * `p.94`: The Dezullon's Constrict doesn't list a DC.
+* `p.112`: The Ancient Red Dragon should be Gargantuan like the other Ancient dragons.
+  ([Confirmed by James Jacobs](https://paizo.com/products/btq01zp4/discuss&page=5?Pathfinder-Bestiary#241))
 * `p.134` in Draconic Frenzy: "The frost drake makes two **gang Strikes**". Should be "**fang Strikes**".
 * `p.150`: The Air Mephit has a +19 Reflex save. This is high to a statistically significant extent for a level 1 creature. See note at the bottom of this post.
 * `p.157`: The Faerie Dragon has a +16 Perception. This is high to a statistically significant extent for a level 2 creature. See note at the bottom of this post.
