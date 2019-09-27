@@ -98,10 +98,12 @@
 * `p.322` in "Charm" and `p.390` in "Charming Touch": [Colette Brunel](https://paizo.com/threads/rzs42pdf?Charm-Charming-Touch-and-Identify-Magic) points out that these spells mentions of Identify Magic doesn't make sense. Is it meant to be Recall Knowledge? Also, the condition appendix says that PCs aren't affected by the friendly and helpful conditions, so do these spells not do anything to PCs?
 * `p.326` in Continual Flame: Heightened versions of the spell say what the gold cost increases are, but not what actual effect that comes with.
 * `p.327` in Crusade: "You issue a divine mandage to the targets. **you** pronounce...". Should be capitalized? Or is there even a word missing?
+* `p.331` in Disintegrate: The spell requires an attack roll but doesn't have the Attack trait.
 * `p.331` in Disrupt Undead: Missing the Cantrip tag.
 * `p.334` in Eclipse Burst: **Critical Failure** isn't bolded.
 * `p.336` in Entangle:
   The effects of the spell do not use the standard 4-degrees block.
+* `p.341` in Ghoulish Cravings: The spell has the Attack trait but doesn't require an attack roll.
 * `p.343` in Harm spell: "You disperse **positive** energy in a 30-foot emanation". Should be **negative** energy.
 * `p.349` in Magic Aura spell: "A caster using detect magic or **study aura**...". This cantrip doesn't exist.
 ---
