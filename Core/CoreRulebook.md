@@ -206,7 +206,8 @@
 
 * There is some confusion over whether emanations include or exclude the
   caster's squares. The *harm* spell would rather have it excluded while the
-  *heal* spell would rather have it included
+  *heal* spell would rather have it included.
+  Jason Bulmahn has said he will bring up the issue internally.
 
 * Shifting runes: Can they be used with Handwraps?
   How do they interact with magic weapons that have non-rune special abilities.
