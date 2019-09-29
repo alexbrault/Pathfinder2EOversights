@@ -18,7 +18,7 @@ If you know of an error that isn't on this list, there are a few ways you can te
 2. You can submit an issue against this repo up in the `Issues` tab and I will add it to the list, closing the issue when I have added it to the list.
 3. Make a post in [this thread on the Paizo forums][update thread] which I also check periodically for newly found errors.
   The latest comment included is
-  [#373][latest update]
+  [#381][latest update]
 
 [update thread]: https://paizo.com/threads/rzs42nmp&TyposMistakesEtc-in-2E-Books-Collection
 [latest update]: https://paizo.com/threads/rzs42nmp&page=8?TyposMistakesEtc-in-2E-Books-Collection#381
