@@ -21,4 +21,4 @@ If you know of an error that isn't on this list, there are a few ways you can te
   [#373][latest update]
 
 [update thread]: https://paizo.com/threads/rzs42nmp&TyposMistakesEtc-in-2E-Books-Collection
-[latest update]: https://paizo.com/threads/rzs42nmp&page=8?TyposMistakesEtc-in-2E-Books-Collection#374
+[latest update]: https://paizo.com/threads/rzs42nmp&page=8?TyposMistakesEtc-in-2E-Books-Collection#381

@@ -20,6 +20,8 @@
 * `p.86` in Table 3-3 Animal Instincts: The deer has the trait **Charge**. Looks like this isn't a valid trait.
 * `p.87`: The giant instinct's Titan Mauler ability grants access to "one weapon one size larger than you."
   For Small creatures, this should grant access to a weapon built for a Large creature like the previous sentence says.
+* `p.87`: **Raging Thrower** allows Brutal Critical to be applied to thrown weapon attacks.
+  Brutal Critical has no limitations on the type of strikes, so it can be used with thrown Strikes without Raging Thrower.
 * `p.91` in Thrash: "plus your **ferocious specialization** damage". What is that? Is that meant to be **weapon specialization**? (Credit to [/u/boomstik101](https://www.reddit.com/r/Pathfinder2e/comments/cfomkf/barbarian_ferocious_specilization_damage/) on Reddit.)
 * `p.91` in Sudden Leap: Missing the 2 action icon that is found on the feat of the same name in Fighter's feats on `p.149`. Note: Fighters and Barbarians share multiple feats. The fighter feat also has a special tag that includes interactions the **Felling Strike** but this is probably because Barbarians do not have access to **Felling Strike**.
 * `p.91`: Terrifying Howl makes you attempt to Demoralize **each creature**.
@@ -43,6 +45,7 @@
 * `p.162` in sidebar: "Higher-Level Feats: **Mountain Stance (1st)**". Should be **Ki Strike (1st)**, as many of the other listed feats require it.
 * `p.170` in Ranger Feats sidebar: "To the Ends of the Earth" and "Triple Threat" have the same background color instead of alternating.
 * `p.173, 175`: Lightning Snares is an upgrade over Quick Snares but doesn't have it as a requirement.
+* `p.174`: Terrain Master is a level 8 feat but requires *wild stride* which is gained at 11th level.
 * `p.176` in Stealthy Companion: Doesn't list Animal Companion as a prerequisite.
 * `p.176` in Warden's Guidance: Your allies need to see or hear the ranger to gain the benefit but the effect doesn't have the auditory or visual trait.
 * `p.184` in Minor Magic: Sweet, the Rogue gets spells. What ability do I use for the spell DC? There's also no trained proficiency in Spell DC or Spell Attack Roll.
@@ -221,3 +224,5 @@
 * **Resurrectionist** (`p.126`), **Spirit Link** (`p.371-372`)and **Malignant Sustenance** (`p.394`) mention fast healing.
   Fast healing is only defined in the Bestiary.
   It should have an entry in the Glossdex.
+
+* [Wizards seem to have much easier access to additional 10th level spell slots](https://paizo.com/threads/rzs42nmp&page=8?TyposMistakesEtc-in-2E-Books-Collection#381)
