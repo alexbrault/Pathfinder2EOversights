@@ -9,6 +9,9 @@
 * `p.44` in Gnome Weapon Familiarity: "You are trained with the glaive and kukri. In addition, you gain access to all uncommon gnome weapons." The kukri doesn't have the gnome tag, and is uncommon. Is it just missing the gnome tag then?
 ---
 * `p.52` and `p.59`: Halfling and Orc Weapon Familiarity ancestry feats are missing the line "For the purpose of determining your proficiency."
+* `p.57`: Adaptive Cantrip has as a prerequisite "spellcasting class feature".
+  This concept is poorly defined; it's unclear if multiclass spellcasting feats count.
+  This should have "Cast a Spell activity" as a prerequisite instead.
 * `p.57` in Adaptive Adept: "or prepared spells just like the cantrip from Adapted **Spell**". Should be Adapted **Cantrip**.
 * `p.62` in "Field Medic" description: "You gain the **Battle Medic** skill feat." The feat as listed on `p.258` is named **Battle Medicine**.
 * `p.68` in Initial Proficiencies: "Each class entry specifies your character’s initial proficiency rank in Perception, saving throws, attacks, defenses, and either spells or class DC. **You gain the trained proficiency rank in at least one skill that is important to your class**, and you can choose other skills to gain trained proficiency in—the exact number depends on your class."
@@ -70,6 +73,8 @@
 * `p.216` Is the Support benefit of the horse really meant to result in the same damage regardless of whether you use a Jousting weapon or not?
 * `p.217`: The Ambusher animal companion specialization grants the animal companion a +2 bonus to some initiative rolls.
   Animal companions don't get their own initiative.
+* `p.220-231`: Archetype feats that grant a focus pool seem to only give a Refocus activity if you don't already have a focus pool.
+  It doesn't make sense that a multiclassed Sorcerer can regain focus through their blood if they started as a barbarian but not as a bard.
 * `p.225`: **Druid Dedication** comes with only the chosen druidic order's anathema.
   The anathema of all druids—using metal armour, despoiling nature and teaching Druidic—is unaccounted for.
 * `p.230`: **Sorcerer Dedication** grants a repertoire with two cantrips from the spell list associated with the bloodline.
@@ -101,6 +106,9 @@
 * `p.322` in "Charm" and `p.390` in "Charming Touch": [Colette Brunel](https://paizo.com/threads/rzs42pdf?Charm-Charming-Touch-and-Identify-Magic) points out that these spells mentions of Identify Magic doesn't make sense. Is it meant to be Recall Knowledge? Also, the condition appendix says that PCs aren't affected by the friendly and helpful conditions, so do these spells not do anything to PCs?
 * `p.326` in Continual Flame: Heightened versions of the spell say what the gold cost increases are, but not what actual effect that comes with.
 * `p.327` in Crusade: "You issue a divine mandage to the targets. **you** pronounce...". Should be capitalized? Or is there even a word missing?
+* `p.327` in Dispel Magic: There is confusion in the meaning of "succeed against a spell effect".
+  The counteracting rules have the spell effects counteracted even on a failure (given a high enough counteract level).
+  Would such a Failure with a Dispel Magic turn a magic item mundane?
 * `p.331` in Disintegrate: The spell requires an attack roll but doesn't have the Attack trait.
 * `p.331` in Disrupt Undead: Missing the Cantrip tag.
 * `p.334` in Eclipse Burst: **Critical Failure** isn't bolded.
@@ -151,9 +159,11 @@
 ---
 * `p.535` in Consumable: "as well as ammunition oils, potions, scrolls". Missing a comma between "ammunition" and "oils".
 * `p.536`: In the 2nd-Level Consumables table: Silversheen is mistakenly italicised.
+* `p.544`: Alchemical bombs are described as martial *thrown* weapon, but don't have the **Thrown** trait.
 * `p.544` in Splash Trait: "For example, if you threw a less acid flask and hit your target, that creature would take 1d6 persistent acid damage and 1 acid splash damage". It would also take an additional point of acid damage, as listed on the very last line of this page.
 * `p.552` in Giant Wasp Venom: "Stage 3 4d6 poison and clumsy". Missing the word "**damage**" after "poison".
 * `p.556` in Armor Alternatives: Per a quote from Mark Seifter (thanks, PF Discord!), looks like the intention was that Bracers of Armor are supposed to have their listed dex cap of +5 from page 607.
+* `p.566` in Dispelling Sliver: It is unclear what is rolled for the counteract check of the talisman.
 * `p.572` in Bag of Holding: How is it held in two hands if you're able to put and remove items from it like a mundane sack?
 * `p.583` in Shadow: The stateblock says "Rune 5+", but the lowest-level version is Level 3.
 * `p.586` in Mithral Shield: Standard-grade has a bulk of **L**. Looks like it should be **1**.
