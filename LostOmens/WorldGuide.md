@@ -1,5 +1,6 @@
 # Lost Omens World Guide
 
+* `p.8, p.27`: The year of Deskari's death and sealing of the Worldwound is in conflict. p.8 lists it as 4713 AR, p.27 lists it as 4718 AR.
 * `p.28`: The Aldori dueling sword is mispriced.
   It should cost 20 sp instead of 20 gp.
   (Confirmed by Eleanor Ferron)
