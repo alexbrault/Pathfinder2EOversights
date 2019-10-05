@@ -148,6 +148,8 @@
   The previous sentence seems to indicate only 10-foot reach is an exception.
   30-foot reach should reach 4 squares and 25-foot reach only 3.
 * `p.456` Many of the red dots for the lines are off-center.
+* `p.457` in Line: The example using *lightning bolt* describes the spell's area of effect as a 60 by 5 foot line.
+  The *lightning bolt* spell has an area of a 120 feet line.
 * `p.458` in Affliction Example: "Succeeding at your second save would reduce the stage **t** by 1 to stage 1...". I'm not sure if that was meant to be something or if should just be deleted, lol.
 * `p.476` in Flanking: To flank a foe, you and your ally must be on **opposites sides** or corners of the creature. Change to **opposite sides**.
 * `p.477` in Cover: "The line between the centers of their spaces doesn't pass through any block terrain, but does **passes** through Valero's space." Change to "**pass**".
