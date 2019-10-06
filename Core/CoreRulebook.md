@@ -129,8 +129,12 @@
 * `p.398` and `p.405` **Touch of Undeath** is the name of two different spells for the Cleric and Sorcerer. Seems worth renaming one of them.
 ---
 * `p.409` in Atone spell: "Heightened (**5th**)". Based on the rest of the spell, is this meant to be **+1**?
+* `p.438`: Desna grants her followers the *dream message* spell.
+  *Dream message* is already a divine spell.
 * `p.438`: Iomedae grants her followers the *see invisibility* spell.
-  *See invisibility* is already a second level divine spell.
+  *See invisibility* is already a divine spell.
+* `p.439`: Nethys grants his followers the *prying eye* spell.
+  *Prying eye* is already a divine spell.
 * `p.441` in Whispering Way: No follower alignments.
 * `p.441` in Domains table: **Ambition** domain is listed before the **Air** domain. Should be the other way around.
 * `p.445` in "Step 4: Determine the Degree of Success":
