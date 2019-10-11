@@ -20,4 +20,4 @@ If you know of an error that isn't on this list, there are a few ways you can te
   The latest comment included is [linked here][latest update]
 
 [update thread]: https://paizo.com/threads/rzs42nmp&TyposMistakesEtc-in-2E-Books-Collection
-[latest update]: https://paizo.com/threads/rzs42nmp&page=8?TyposMistakesEtc-in-2E-Books-Collection#395
+[latest update]: https://paizo.com/threads/rzs42nmp&page=9?TyposMistakesEtc-in-2E-Books-Collection#419

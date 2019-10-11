@@ -51,6 +51,7 @@
 * `p.174`: Terrain Master is a level 8 feat but requires *wild stride* which is gained at 11th level.
 * `p.176` in Stealthy Companion: Doesn't list Animal Companion as a prerequisite.
 * `p.176` in Warden's Guidance: Your allies need to see or hear the ranger to gain the benefit but the effect doesn't have the auditory or visual trait.
+* `p.180` in Thief Racket: It should be explicit whether throwing a melee finesse weapon is an attack with a finesse melee weapon.
 * `p.184` in Minor Magic: Sweet, the Rogue gets spells. What ability do I use for the spell DC? There's also no trained proficiency in Spell DC or Spell Attack Roll.
 * `p.184` in Scoundrel sample rogue: Trap Finder sounds like an odd starting feat.
 * `p.193`: The spell repertoire class feature points to `p.481` for retraining spells in the repertoire.
@@ -60,6 +61,8 @@
 * `p.194, 207`: Both the sorcerer and wizard have a mechanically identical **Defensive Robes** feature, but the two have different flavour text.
   Other instances of identical features, such as **Alertness**, **Magical Fortitude** or **Resolve**, use identical phrasing across all classes that share them.
 * `p.195` in Reading a Bloodline Entry: "You automatically add the spells listed here to your spell repertoire, **in addtion to those you gain through sorcerer spellcasting**". Does this contradict the Spell Repertoire section? Is this a holdover from the playtest?
+* `p.196-197` in Elemental bloodline: Elemental Type adds the chosen element's trait to many of the granted spells, but does not remove the fire trait.
+  This prevents a non-fire elemental sorcerer from casting these spells underwater.
 * `p.199` Is Bespell Weapon a level **four** feat like the main entry says, or level **six** like the sidebar says?
 ---
 * `p.201` in Greater Mental Evolution: Missing the "Occult" trait.
@@ -84,8 +87,10 @@
   It may be helpful to change "grabbed" to "grabbed or restrained".
 ---
 * `p.255` in Table 5-2 General Skill Feats: Automatic Knowledge: "Recall Knowledge as a free action once per **day**". Full description on `p.258` says once per **round**.
+* `p.258` in Battle Medicine: It is unclear if the action requires a free hand and/or a healing kit
 * `p.265` in Read Lips: The first sentence of the second paragraph is worded like the first sentence of the first paragraph.
   It should be clearer that the feat allows deaf and hard of hearing to skip the Society checks the feat normally requires and whether they are fascinated and flat-footed while lipreading.
+* `p.272` in Item Damage: The first paragraph says items take damage when directly attacked, but the rules don't explain how to attack an unattended object.
 * `p.273` in Broken: "An object is broken when damage has reduced its Hit Points **below** its Broken Threshold". This feels inconsistent with page 272 where it says "when its Hit Points are **equal to or lower than**". Which is it?
 * `p.274` in Bulk: "This entry gives the armor’s Bulk, assuming you’re wearing the armor and distributing its weight across your body. A suit of armor that’s **carried or worn** usually has 1 more Bulk than what’s listed here". This should just be **carried**, right? Since the previous sentence deals with when it's worn.
 * `p.275` in Padded Armor entry: There's a strength value of 10, but no check or speed penalty. Is this on purpose?
@@ -98,11 +103,15 @@
 * `p.292` in Torch: Doesn't look like the torch lists a duration.
 * `p.293` vs `p.563` Is a Minor Healing Potion 3 or 4 gp?
 * `p.295` in Table 6-18 Barding: If you can get animal armor with Heavy Barding that grants an AC bonus of +3, why does `p.214` say that animal companions are limited to gaining a +2 AC item bonus?
+* `p.298`: The description of the illusion school says they almost always have the mental trait.
+  Very few illusion spells actually do.
 * `p.298` in Disbelieving Illusions: Last sentence has an extra period.
 ---
 * `p.298` in Cantrips: The first paragraph mentions "cantrip slots".
   This terminology is not used anywhere else in the rulebook.
 * `p.307` in "Charm", `p.308` in "Paralyze", and `p.309` in "Dominate". All three short-text versions of these spells reference targeting a "humanoid", but the full spell descriptions don't specify that the target needs to be humanoid.
+* `p.322` in "Cataclysm": "Each creature attempts one basic Reflex save that applies to all **six** types of damage."
+  Depending on the interpretation of the types of damage of the spell, there may be between 5 and 7 types of damage.
 * `p.322` in "Charm" and `p.390` in "Charming Touch": [Colette Brunel](https://paizo.com/threads/rzs42pdf?Charm-Charming-Touch-and-Identify-Magic) points out that these spells mentions of Identify Magic doesn't make sense. Is it meant to be Recall Knowledge? Also, the condition appendix says that PCs aren't affected by the friendly and helpful conditions, so do these spells not do anything to PCs?
 * `p.326` in Continual Flame: Heightened versions of the spell say what the gold cost increases are, but not what actual effect that comes with.
 * `p.327` in Crusade: "You issue a divine mandage to the targets. **you** pronounce...". Should be capitalized? Or is there even a word missing?
@@ -116,7 +125,10 @@
   The effects of the spell do not use the standard 4-degrees block.
 * `p.341` in Ghoulish Cravings: The spell has the Attack trait but doesn't require an attack roll.
 * `p.343` in Harm spell: "You disperse **positive** energy in a 30-foot emanation". Should be **negative** energy.
+* `p.347`: Jump has a number of unclear interactions listed [here](https://paizo.com/threads/rzs42nmp&page=9?TyposMistakesEtc-in-2E-Books-Collection#415)
 * `p.349` in Magic Aura spell: "A caster using detect magic or **study aura**...". This cantrip doesn't exist.
+* `p.349`: Magic Fang targets a willing ally.
+  This prevents a druid from using it to improve her wild shape's attacks.
 ---
 * `p.356` in Pest Form: "You transform into **a** the battle form of a Tiny animal". The extra "a" should be deleted.
 * `p.368` in Shadow Siphon: "instead take only half as much damage**.** but...". The period should be a comma.
@@ -242,3 +254,6 @@
   It should have an entry in the Glossdex.
 
 * [Wizards seem to have much easier access to additional 10th level spell slots](https://paizo.com/threads/rzs42nmp&page=8?TyposMistakesEtc-in-2E-Books-Collection#381)
+
+* The interaction between Certain Strike (`p.150`) and the forceful weapon trait (`p.282`) is unclear.
+  Does the forceful trait count the weapon dice that Certain Strike removes for its circumstance bonus?
