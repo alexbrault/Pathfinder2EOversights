@@ -46,6 +46,9 @@
 * `p.159` in Mountain Stance: "Trigger You are unarmored and touching the ground" should be "Requirements You are unarmored and touching the ground".
 * ~~`p.162` Ki Monk question: Is this sidebar saying that Wisdom is supposed to be the key ability for a monk's ki/spell attacks?~~ [Confirmed by Errata](https://www.reddit.com/r/Pathfinder2e/comments/crgobt/pathfinder_2e_errata_from_the_designers/) that Ki spells use a monk's Wisdom.
 * `p.162` in sidebar: "Higher-Level Feats: **Mountain Stance (1st)**". Should be **Ki Strike (1st)**, as many of the other listed feats require it.
+* `p.169` in Nature's Edge: "Enemies are flat-footed to you if they're [...] on natural uneven ground".
+  Uneven ground naturally makes creatures flat-footed;
+  it's unclear if this is intended to override abilities like Rock Runner or if it's an artifact leftover from an earlier version of the rules.
 * `p.170` in Ranger Feats sidebar: "To the Ends of the Earth" and "Triple Threat" have the same background color instead of alternating.
 * `p.173, 175`: Lightning Snares is an upgrade over Quick Snares but doesn't have it as a requirement.
 * `p.174`: Terrain Master is a level 8 feat but requires *wild stride* which is gained at 11th level.
