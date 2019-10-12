@@ -4,6 +4,8 @@
 * `p.20` under Ability Score Overview; Ancestry: "If you are taking any voluntary flaws, apply them in this step (see the sidebar on page **24**)". This should be page **26**.
 * `p.22` Champion key ability score is listed as **Strength**. Should be **Dexterity or Strength** like the Fighter and Ranger on page 23. Sidenote: I notice on the more detailed class pages, (p.105, 141, and 167), the key ability is listed the other way around as "Strength and Dexterity". Not exactly an issue, but wondering if it's worth being consistent between the two areas.
 * `p.26` in Step 7: "Likewise, record your character's **their** armor proficiencies in the...". Word should be deleted.
+* `p.30` in Step 7: Adam's druid chooses three skills to be trained in (in addition to Nature and Intimidation from wild order druid).
+  Druids are trained in 2+Int additional skills, but Adam's druid does not have an Intelligence bonus.
 * `p.34` in Society: "**Today's dwarves today** retain". Remove one of the "today"s.
 * `p.41` in Universal Longevity: "changing the skills you selected with **Elven Longevity** and Expert Longevity". Is this meant to be referencing **Ancestral Longevity**?
 * `p.44` in Gnome Weapon Familiarity: "You are trained with the glaive and kukri. In addition, you gain access to all uncommon gnome weapons." The kukri doesn't have the gnome tag, and is uncommon. Is it just missing the gnome tag then?
