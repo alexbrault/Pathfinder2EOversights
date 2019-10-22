@@ -6,6 +6,8 @@
 * `p.26` in Step 7: "Likewise, record your character's **their** armor proficiencies in the...". Word should be deleted.
 * `p.30` in Step 7: Adam's druid chooses three skills to be trained in (in addition to Nature and Intimidation from wild order druid).
   Druids are trained in 2+Int additional skills, but Adam's druid does not have an Intelligence bonus.
+* `p.34` in **You might...**: "You might don't waver[...] " is incorrect grammar.
+  That bullet point should start with "never" or "not" instead of "don't".
 * `p.34` in Society: "**Today's dwarves today** retain". Remove one of the "today"s.
 * `p.41` in Universal Longevity: "changing the skills you selected with **Elven Longevity** and Expert Longevity". Is this meant to be referencing **Ancestral Longevity**?
 * `p.44` in Gnome Weapon Familiarity: "You are trained with the glaive and kukri. In addition, you gain access to all uncommon gnome weapons." The kukri doesn't have the gnome tag, and is uncommon. Is it just missing the gnome tag then?
@@ -43,11 +45,14 @@
 * `p.139` in Monstrosity Shape: "add the phoenix form listed in **aerial form** to your wild shape list". Phoenix form is actually listed in **monstrosity form**.
 * `p.145`: Page number is blocked by fighter's foot.
 ---
+* `p.151`: The description of Incredible Ricochet seems to indicate the ability must target the same creature as an earlier attack, but there is no actual requirement on the activity.
 * `p.156` in Mystic Strikes: "However, you still need an item such as **handswarps of mighty fists**...". Should be "**handwraps of mighty blows**".
 * `p.157-158`: Does it say anywhere that monk spells start on page 401? Worth considering adding?
 * `p.159` in Mountain Stance: "Trigger You are unarmored and touching the ground" should be "Requirements You are unarmored and touching the ground".
 * ~~`p.162` Ki Monk question: Is this sidebar saying that Wisdom is supposed to be the key ability for a monk's ki/spell attacks?~~ [Confirmed by Errata](https://www.reddit.com/r/Pathfinder2e/comments/crgobt/pathfinder_2e_errata_from_the_designers/) that Ki spells use a monk's Wisdom.
 * `p.162` in sidebar: "Higher-Level Feats: **Mountain Stance (1st)**". Should be **Ki Strike (1st)**, as many of the other listed feats require it.
+* `p.163`: Wild Winds Initiate doesn't have the Stance trait.
+  The *wild winds stance* ki spell does have the trait, but having it on the feat also would help searchability.
 * `p.169` in Nature's Edge: "Enemies are flat-footed to you if they're [...] on natural uneven ground".
   Uneven ground naturally makes creatures flat-footed;
   it's unclear if this is intended to override abilities like Rock Runner or if it's an artifact leftover from an earlier version of the rules.
@@ -91,6 +96,8 @@
 * `p.242` in Grapple: "You can also Grapple to keep your hold on a creature you already grabbed."
   It may be helpful to change "grabbed" to "grabbed or restrained".
 ---
+* `p.253` in Pick a Lock: The description of this activity suggests that better locks requiring multiple successes prevent unskilled burglar from trying until a natural 20 opens the lock.
+  Since there is no requirement that the successes be consecutive, a determined burglar with a large supply of picks could attempt to pick the lock until getting enough natural 20s to open the lock.
 * `p.255` in Table 5-2 General Skill Feats: Automatic Knowledge: "Recall Knowledge as a free action once per **day**". Full description on `p.258` says once per **round**.
 * `p.258` in Battle Medicine: It is unclear if the action requires a free hand and/or a healing kit
 * `p.265` in Read Lips: The first sentence of the second paragraph is worded like the first sentence of the first paragraph.

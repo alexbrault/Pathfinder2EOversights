@@ -24,6 +24,8 @@
 * `p.257`: The Orc Warchief has a lower Constitution modifier than the Orc Brute and Warrior.
 * `p.288`: The Sea Serpent's Constrict doesn't list a DC.
 * `p.288`: The Shoggoth's Constrict doesn't list a DC.
+* `p.295`: The Simurgh is listed as **CR 18**.
+  CR is no longer a thing; it should read **Creature 18**.
 * `p.308-309`: Grigs and Pixies have the **CN** trait.
   In first edition, they were neutral good.
   Their description, especially the grigs', seem to tend more towards good than neutral.
