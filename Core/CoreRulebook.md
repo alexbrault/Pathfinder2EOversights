@@ -17,6 +17,7 @@ The first errata document is avaliable [here][errata-1]
   [Addressed in errata][errata-1]
 * ~~`p.44` in Gnome Weapon Familiarity: "You are trained with the glaive and kukri. In addition, you gain access to all uncommon gnome weapons." The kukri doesn't have the gnome tag, and is uncommon. Is it just missing the gnome tag then?~~
   [Addressed in errata][errata-1]
+* `p.48`: Goblin Song describes the action specifically as singing but allows any type of Performance check.
 ---
 * `p.52` and `p.59`: Halfling and Orc Weapon Familiarity ancestry feats are missing the line "For the purpose of determining your proficiency."
 * `p.57`: Adaptive Cantrip has as a prerequisite "spellcasting class feature".
@@ -33,14 +34,22 @@ The first errata document is avaliable [here][errata-1]
 * `p.75` in Perpetual Infusions: "Mutagenist: Choose two of the following formulas: lesser bestial mutagen, **lesser bullheaded mutagen**...". There is no bullheaded mutagen in this book.
 * ~~`p.75` in Perpetual Infusions in Bomber: "lesser bottled lightning, **lesser liquid ice**, lesser tanglefoot bag...". Should be "**lesser frost vial**".~~
   [Addressed in errata][errata-1]
+* `p.81`: Perfect Debilitation causes the target to avoid the condition only on a critical success.
+  Although it is not a requirement for Perfect Debilitation, True Debilitating Bomb appears to already grant that benefit, at a lower level alongside with others.
+  The difference between the two feats should be made clearer.
 * `p.84` in Rage: "You deal 2 additional damage with melee **weapons** and unarmed attacks." Worth changing to **attacks** just to make sure no one thinks Rage can be applied to thrown melee weapons?
 * ~~`p.86` in Table 3-3 Animal Instincts: The deer has the trait **Charge**. Looks like this isn't a valid trait.~~
   [Addressed in errata][errata-1]
+* `p.86` (Post-errata): The animal instinct specialization ability grants reach to the deer's antler attack.
+  Since the errata put it on par with the other natural weapons before specialization, the extra reach makes the deer strictly better than most other animal instincts.
 * ~~`p.87`: The giant instinct's Titan Mauler ability grants access to "one weapon one size larger than you."
   For Small creatures, this should grant access to a weapon built for a Large creature like the previous sentence says.~~
   [Addressed in errata][errata-1]
 * `p.87`: **Raging Thrower** allows Brutal Critical to be applied to thrown weapon attacks.
   Brutal Critical has no limitations on the type of strikes, so it can be used with thrown Strikes without Raging Thrower.
+* `p.89`: Furious Finish can be use on any Strike, including ranged strikes.
+  The damage bonus from rage can only apply to melee strikes (Raging thrower notwithstanding).
+  Is it intended that Furious Finish can be used on ranged strikes?
 * ~~`p.91` in Thrash: "plus your **ferocious specialization** damage". What is that? Is that meant to be **weapon specialization**? (Credit to [/u/boomstik101](https://www.reddit.com/r/Pathfinder2e/comments/cfomkf/barbarian_ferocious_specilization_damage/) on Reddit.)~~
   [Addressed in errata][errata-1]
 * `p.91` in Sudden Leap: Missing the 2 action icon that is found on the feat of the same name in Fighter's feats on `p.149`. Note: Fighters and Barbarians share multiple feats. The fighter feat also has a special tag that includes interactions the **Felling Strike** but this is probably because Barbarians do not have access to **Felling Strike**.
@@ -89,6 +98,9 @@ The first errata document is avaliable [here][errata-1]
 * ~~`p.184` in Minor Magic: Sweet, the Rogue gets spells. What ability do I use for the spell DC? There's also no trained proficiency in Spell DC or Spell Attack Roll.~~
   [Addressed in errata][errata-1]
 * `p.184` in Scoundrel sample rogue: Trap Finder sounds like an odd starting feat.
+* `p.191, 230`: The sorcerer's initial proficiencies makes her "trained in one or more skills determined by [her] bloodline".
+  The Sorcerer Dedication feat grants training in "the bloodline's two skills".
+  Given the wording of the dedication feat and that all current bloodlines grant exactly two skills, the sorcerer's initial proficiencies should reflect that.
 * `p.193`: The spell repertoire class feature points to `p.481` for retraining spells in the repertoire.
   This page offers no guidance on how long the process takes or what it costs
   (neither does the retraining section of the Game Mastering chapter)
@@ -120,6 +132,7 @@ The first errata document is avaliable [here][errata-1]
 * ~~`p.217`: The Ambusher animal companion specialization grants the animal companion a +2 bonus to some initiative rolls.
   Animal companions don't get their own initiative.~~
   [Addressed in errata][errata-1]
+* `p.218`: Can the same familiar ability be chosen multiple times?
 * `p.220-231`: Archetype feats that grant a focus pool seem to only give a Refocus activity if you don't already have a focus pool.
   It doesn't make sense that a multiclassed Sorcerer can regain focus through their blood if they started as a barbarian but not as a bard.
 * `p.225`: **Druid Dedication** comes with only the chosen druidic order's anathema.
@@ -128,6 +141,8 @@ The first errata document is avaliable [here][errata-1]
   Some bloodlines grant access to cantrips outside their spell list.
   These cantrips can't be chosen with the Sorcerer Dedication as written.~~
   [Addressed in errata][errata-1]
+* `p.241, 472`: The Sample Manoeuvres in Flight Tasks sidebar suggests hovering in midair is an Expert use of Maneuver in Flight.
+  The Fly action on the other hand says you can use the action to hover with no DC.
 * `p.242` in Grapple: "You can also Grapple to keep your hold on a creature you already grabbed."
   It may be helpful to change "grabbed" to "grabbed or restrained".
 ---
@@ -144,9 +159,16 @@ The first errata document is avaliable [here][errata-1]
 * `p.274` in Bulk: "This entry gives the armor’s Bulk, assuming you’re wearing the armor and distributing its weight across your body. A suit of armor that’s **carried or worn** usually has 1 more Bulk than what’s listed here". This should just be **carried**, right? Since the previous sentence deals with when it's worn.
 * `p.275` in Padded Armor entry: There's a strength value of 10, but no check or speed penalty. Is this on purpose?
 * `p.275` in Chain shirt entry: "Flexible, **Noisy**". Lowercasing to **noisy** makes it consistent with both the rest of this table column, and the "Weapon Traits" column in the weapons tables.
+* `p.277`: A shield can be treated as a martial weapon.
+  Does this apply to the fighter's dual-weapon feats or doubling rings?
+  What if the shield has a boss or a spike?
 * `p.278` in Critical Hits: "When you make an attack and roll a natural 20... or if the result of your attack exceeds the target's AC by 10, you achieve a critical success." A nat 20 does not guarantee a critical success.
 * ~~`p.278` in Improvised Weapons: What proficiency bonus do players use for improvised weapons?~~
   [Addressed in errata][errata-1]
+* `p.283`: The Parry trait uses an Interact action which makes it provoke reactions, unlike Raise a Shield.
+* `p.283` (Post-errata): A thrown melee weapon is treated as a ranged weapon.
+  How does this interact with melee-only runes like *ghost touch*?
+* `p.283`: The critical specialization effect for axes is ambiguous when mixed with a thrown weapon.
 * `p.284` in Bastard Sword: "...it can be held in one hand or used with two hands to provide extra **piercing** or slashing power". Bastard swords don't deal piercing damage.
 * `p.287` in Candle: Doesn't list a duration.
 * ~~`p.288` Mark Seifter mentioned in the Know Direction podcast that the item "Adventurer's pack" should have a Bulk of **1** instead of **2**. [Double confirmed by errata](https://www.reddit.com/r/Pathfinder2e/comments/crgobt/pathfinder_2e_errata_from_the_designers/)~~
@@ -156,12 +178,19 @@ The first errata document is avaliable [here][errata-1]
 * `p.292` in Torch: Doesn't look like the torch lists a duration.
 * `p.293` vs `p.563` Is a Minor Healing Potion 3 or 4 gp?
 * `p.295` in Table 6-18 Barding: If you can get animal armor with Heavy Barding that grants an AC bonus of +3, why does `p.214` say that animal companions are limited to gaining a +2 AC item bonus?
+* `p.297`: The Spellbooks sidebar mentions that prepared casters other than the wizard can use a spellbook to gain access to uncommon and rare spells if they can reference the spellbook in preparation.
+  The Learn a Spell activity (`p.238`) has no such restriction;
+  learning a rarer spell from a spellbook adds the spell to the list permanently.
 * `p.298`: The description of the illusion school says they almost always have the mental trait.
   Very few illusion spells actually do.
 * `p.298` in Disbelieving Illusions: Last sentence has an extra period.
----
 * `p.298` in Cantrips: The first paragraph mentions "cantrip slots".
   This terminology is not used anywhere else in the rulebook.
+---
+* `p.302` in Innate Spells: "*If your proficiency in spell attack rolls or spell DCs is expert or better, apply that proficiency to your innate spells*, too."
+  Spell proficiency is divided by tradition.
+  Would a 20th-level gnome wizard have legendary proficiency with their primal innate spells?
+* `p.304` in Sustain a Spell: It is unclear if a spell can be sustained multiple times during the same round.
 * `p.307` in "Charm", `p.308` in "Paralyze", and `p.309` in "Dominate". All three short-text versions of these spells reference targeting a "humanoid", but the full spell descriptions don't specify that the target needs to be humanoid.
 * `p.322` in "Cataclysm": "Each creature attempts one basic Reflex save that applies to all **six** types of damage."
   Depending on the interpretation of the types of damage of the spell, there may be between 5 and 7 types of damage.
@@ -188,20 +217,33 @@ The first errata document is avaliable [here][errata-1]
 * ~~`p.349`: Magic Fang targets a willing ally.
   This prevents a druid from using it to improve her wild shape's attacks.~~
   [Addressed in errata][errata-1]
+* `p.343`: Magic Missile's components are parenthesised.
+  This is inconsistent with other spells that have a variable number of actions.
 ---
 * `p.356` in Pest Form: "You transform into **a** the battle form of a Tiny animal". The extra "a" should be deleted.
+* `p.358`: Polar Ray is missing the attack trait
 * `p.368` in Shadow Siphon: "instead take only half as much damage**.** but...". The period should be a comma.
 * ~~`p.370` in Sound Burst: Critical Failure says stunned 1 for 1 minute. This sounds like an oddly long time.~~
   [Addressed in errata][errata-1]
 * `p.376` in Synaptic Pulse: "You emit a pulsating blast that penetrates the minds of all **enemies** in the area. Each **creature** in the area must attempt a Will save."
   The spell should affect either all enemies or all creatures.
+* `p.377`: Tanglefoot is missing the attack trait
 * `p.383` in Wall of Force: a *rod of cancellation* is mentioned.
   No item named *rod of cancellation* is not currently published.
+* `p.343`: Rebuke Death's components are parenthesised.
+  This is inconsistent with other spells that have a variable number of actions.
 * ~~`p.397` in Splash of Art: "**Sluggish** 1 for 1 round". What's the Sluggish condition? Is this meant to be the **Clumsy** condition?~~
   [Addressed in errata][errata-1]
 * ~~`p.398` and `p.405` **Touch of Undeath** is the name of two different spells for the Cleric and Sorcerer. Seems worth renaming one of them.~~
   [Addressed in errata][errata-1]
 ---
+* `p.402`: Abyssal Wrath evokes the energy of an Abyssal real.
+  It should have the Chaos and Evil traits.
+* `p.403`: Celestial Brand targets evil creatures and causes good damage.
+  It should have the Chaos and Evil traits.
+* `p.404`: Faerie Dust has a casting time of "[one-action] or more".
+  This is inconsistent with other spells which have a casting of "[one-action] to [three-actions]".
+* `p.407`: Force Bolt has the attack trait but doesn't make an attack roll
 * ~~`p.409` in Atone spell: "Heightened (**5th**)". Based on the rest of the spell, is this meant to be **+1**?~~
   [Addressed in errata][errata-1]
 * ~~`p.438`: Desna grants her followers the *dream message* spell.
@@ -236,9 +278,10 @@ The first errata document is avaliable [here][errata-1]
 * `p.476` in Flanking: To flank a foe, you and your ally must be on **opposites sides** or corners of the creature. Change to **opposite sides**.
 * `p.477` in Cover: "The line between the centers of their spaces doesn't pass through any block terrain, but does **passes** through Valero's space." Change to "**pass**".
 * `p.479` in Exploration Activities: "...If you **to** do nothing more than make steady progress toward your goal,...". Word should be deleted.
+* `p.481`: Under a strict reading of the retraining rules, a character cannot, for example, retrain their second level feat into a dedication feat, then retrain a later feat into a feat for that archetype.
+  At the time the choice of the later feat was originally made, the requirements for the archetype feat weren't met.
 * `p.489` in Planning a Session Part 2: "Plan a time for everybody will arrive,...". Missed a word? Change **for** to **when**?
 * `p.491` in Adjudicating the Rules, second bullet: "(page **XXX**)" More placeholder text.
-* `p.491` "If you don't find one, make up an undefined action (page **XXX**)." Looks like leftover placeholder text.
 * `p.499` near the top: "Don't do this if it's absolutely clear another kind of check **matters more sense than** Perception". Perhaps, "**makes more sense than**"?
 ---
 * `p.535` in Consumable: "as well as ammunition oils, potions, scrolls". Missing a comma between "ammunition" and "oils".
@@ -246,6 +289,7 @@ The first errata document is avaliable [here][errata-1]
 * `p.544`: Alchemical bombs are described as martial *thrown* weapon, but don't have the **Thrown** trait.
 * `p.544` in Splash Trait: "For example, if you threw a less acid flask and hit your target, that creature would take 1d6 persistent acid damage and 1 acid splash damage". It would also take an additional point of acid damage, as listed on the very last line of this page.
 * `p.552` in Giant Wasp Venom: "Stage 3 4d6 poison and clumsy". Missing the word "**damage**" after "poison".
+* `p.552`: Malyass Root Paste was passed over in the poison action reduction errata.
 * `p.556` in Armor Alternatives: Per a quote from Mark Seifter (thanks, PF Discord!), looks like the intention was that Bracers of Armor are supposed to have their listed dex cap of +5 from page 607.
 * ~~`p.566` in Dispelling Sliver: It is unclear what is rolled for the counteract check of the talisman.~~
   [Addressed in errata][errata-1]
@@ -336,6 +380,9 @@ The first errata document is avaliable [here][errata-1]
 
 * The interaction between Certain Strike (`p.150`) and the forceful weapon trait (`p.282`) is unclear.
   Does the forceful trait count the weapon dice that Certain Strike removes for its circumstance bonus?
+
+* A number of divine spells rely on the caster's deity's alignment or favoured weapon.
+  A sorcerer using the divine list doesn't have any special bond to a deity that can be used to define these spells.
 
 
 [errata-1]: https://paizo-images.s3-us-west-2.amazonaws.com/image/download/PZO2101+Errata+1.0.pdf

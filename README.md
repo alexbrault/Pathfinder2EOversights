@@ -19,5 +19,5 @@ If you know of an error that isn't on this list, there are a few ways you can te
 3. Make a post in [this thread on the Paizo forums][update thread] which I also check periodically for newly found errors.
   The latest comment included is [linked here][latest update]
 
-[update thread]: https://paizo.com/threads/rzs42nmp&TyposMistakesEtc-in-2E-Books-Collection
-[latest update]: https://paizo.com/threads/rzs42nmp&page=9?TyposMistakesEtc-in-2E-Books-Collection#437
+[update thread]: https://paizo.com/threads/rzs42u0w?CRB-Typos-Mistakes-Etc-Post-Errata-10
+[latest update]: https://paizo.com/threads/rzs42tpd?CRB-Typos-Mistakes-Etc-Post-Errata-10#47

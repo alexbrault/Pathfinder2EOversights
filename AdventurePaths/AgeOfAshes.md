@@ -14,3 +14,6 @@
 
 * `p.58`: The bookmark for the Ravounel Gazetteer
   is misspelled as **Ravounle Gazetteer**.
+
+# Fires of the Haunted City
+* `p.24`: In the treasure section, Forgemaster Halrig's name is mispelt as Kalrig.

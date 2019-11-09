@@ -1,6 +1,8 @@
 # Bestiary
 
 * `p.11`: The pleroma's Sphere of Oblivion can be used as a ranged attack, but has no range listed.
+* `p.39`: The Giant Bat's fangs attack deals slashing damage. It should be piercing.
+* `p.39`: The Giant Bat's wing attack deals piercing damage. It should be bludgeoning.
 * `p.94`: The Dezullon's Constrict doesn't list a DC.
 * `p.112`: The Ancient Red Dragon should be Gargantuan like the other Ancient dragons.
   ([Confirmed by James Jacobs](https://paizo.com/products/btq01zp4/discuss&page=5?Pathfinder-Bestiary#241))
@@ -18,6 +20,8 @@
 * `p.208` in sidebar: "the crafting of a soulbound doll (page **306**)". Should be **304**.
 * `p.220-221`: The Lich Abilities give custom liches **cold 20, physical 15 (except magic bludgeoning)** resistances.
   The sample Lich only has **cold 10, physical 10 (except magic bludgeoning)**.
+* `p.223`: The Demilich's Trap Soulgives its target *enervated 2* on a success.
+  Enervated is not a condition.
 * `p.250`: The Giant Octopus's Constrict doesn't list a DC.
 * `p.255` in sidebar: The Shoggoth is listed as a variant ooze, though the Shoggoth doesn't have the Ooze trait. Also, the Shoggoth is listed as being on **p.297**, when it's on **p.293** instead.
 * `p.256-257`: The Orc Warrior has the same to hit bonus with its fists as the Orc Brute despite having more Strength and a higher level.
